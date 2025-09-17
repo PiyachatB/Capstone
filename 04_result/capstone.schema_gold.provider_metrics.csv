@@ -1,0 +1,501 @@
+ProviderID,Name,Specialties,State,total_claims,total_amount,avg_claim_amount,approved_claims,rejected_claims,pending_claims,approval_rate,rejection_rate,unique_members,performance_score,last_claim_date
+P0001,Miller LLC,"[""Surgery"",""Gastroenterology""]",SC,3,5525.85,1841.95,2,0,1,0.6666666666666666,0,3,Poor,2024-05-23
+P0002,Hendrix-Ellis,"[""Cardiology"",""Surgery"",""Dermatology""]",FL,7,15288.9,2184.1285714285714,2,2,2,0.2857142857142857,0.2857142857142857,7,Poor,2024-05-13
+P0003,Walker Ltd,"[""Pathology""]",MD,2,5982.950000000001,2991.4750000000004,1,0,0,0.5,0,2,Poor,2024-03-27
+P0004,"Petersen, Hood and Smith","[""Cardiology"",""Family Practice""]",NH,5,7778.0199999999995,1555.6039999999998,0,3,1,0,0.6,5,Poor,2024-05-26
+P0005,"Lynch, Page and Castro","[""Pediatrics"",""Psychiatry"",""Oncology""]",DE,3,5294.78,1764.9266666666665,1,1,1,0.3333333333333333,0.3333333333333333,3,Poor,2024-05-16
+P0006,"Gilbert, Robertson and Gross","[""Pathology"",""Neurology"",""Family Practice""]",RI,4,8145.990000000001,2036.4975000000002,2,1,1,0.5,0.25,4,Poor,2024-04-13
+P0007,Pena-Larson,"[""Pathology""]",WI,3,6826.030000000001,2275.3433333333337,1,0,0,0.3333333333333333,0,3,Poor,2024-04-24
+P0008,Collins PLC,"[""Family Practice"",""Pathology""]",CA,6,10957.09,1826.1816666666666,3,1,0,0.5,0.16666666666666666,6,Poor,2024-05-20
+P0009,Silva-Jones,"[""Neurology""]",AL,2,3720.8900000000003,1860.4450000000002,0,1,0,0,0.5,2,Poor,2024-04-29
+P0010,"Webb, Moore and Young","[""Family Practice"",""Pediatrics"",""Pathology""]",IL,3,5248.63,1749.5433333333333,1,1,1,0.3333333333333333,0.3333333333333333,3,Poor,2024-05-05
+P0011,Lewis Ltd,"[""Internal Medicine"",""Dermatology"",""Cardiology""]",IL,3,4874.61,1624.87,2,0,1,0.6666666666666666,0,3,Poor,2024-04-24
+P0012,Trujillo LLC,"[""Neurology"",""Pediatrics"",""Family Practice""]",DC,2,7031.93,3515.965,2,0,0,1,0,2,Excellent,2024-04-20
+P0013,Lopez Group,"[""Cardiology"",""Oncology"",""Dermatology""]",FL,3,2246.59,748.8633333333333,3,0,0,1,0,3,Excellent,2024-04-27
+P0014,"Wood, Phillips and Moreno","[""Dermatology"",""Neurology"",""Pediatrics""]",MD,2,5686.37,2843.185,2,0,0,1,0,2,Excellent,2024-05-04
+P0015,"Torres, Keith and Ortiz","[""Radiology"",""Pathology""]",GA,3,9397.62,3132.5400000000004,1,0,1,0.3333333333333333,0,3,Poor,2024-05-17
+P0016,Snyder-Harrison,"[""Oncology""]",CA,4,6768.000000000001,1692.0000000000002,1,1,2,0.25,0.25,4,Poor,2024-04-27
+P0017,Davis-Molina,"[""Gastroenterology""]",NE,2,6871.67,3435.835,0,0,1,0,0,1,Poor,2024-04-21
+P0018,"Johnson, Flores and Sampson","[""Family Practice""]",NY,5,9310.57,1862.114,2,1,1,0.4,0.2,5,Poor,2024-05-28
+P0019,Lawson Ltd,"[""Pediatrics"",""Internal Medicine""]",WI,2,2078.86,1039.43,0,0,1,0,0,2,Poor,2024-04-26
+P0020,Pearson-Hopkins,"[""Cardiology"",""Dermatology""]",WY,5,13293.279999999999,2658.656,2,1,0,0.4,0.2,5,Poor,2024-05-19
+P0021,Liu Inc,"[""Pediatrics"",""Family Practice"",""Gastroenterology""]",NH,1,562.7,562.7,0,0,1,0,0,1,Poor,2024-04-28
+P0022,"Velez, Gray and Brown","[""Surgery""]",AZ,4,9776.45,2444.1125,2,0,0,0.5,0,4,Poor,2024-04-24
+P0023,"Brown, Jimenez and Zimmerman","[""Psychiatry"",""Gastroenterology"",""Surgery""]",PA,2,3573.75,1786.875,1,1,0,0.5,0.5,2,Poor,2024-04-15
+P0024,Scott-Johnson,"[""Psychiatry""]",TX,4,4605.01,1151.2525,2,0,1,0.5,0,4,Poor,2024-04-29
+P0025,Pearson-Decker,"[""Surgery""]",IL,3,6319.16,2106.3866666666668,0,1,2,0,0.3333333333333333,3,Poor,2024-04-13
+P0026,"Smith, Foster and Perkins","[""Family Practice"",""Neurology""]",VT,4,9547.26,2386.815,1,2,1,0.25,0.5,4,Poor,2024-05-20
+P0027,Figueroa-Owen,"[""Neurology"",""Family Practice"",""Radiology""]",OR,1,2185,2185,1,0,0,1,0,1,Excellent,2024-05-05
+P0028,Weiss-Adkins,"[""Surgery"",""Pediatrics""]",OK,4,8699.14,2174.785,0,1,1,0,0.25,4,Poor,2024-05-11
+P0029,Taylor LLC,"[""Surgery""]",MD,3,5524.540000000001,1841.5133333333335,0,1,2,0,0.3333333333333333,3,Poor,2024-05-01
+P0030,"Le, Case and Davis","[""Surgery""]",UT,6,11005.59,1834.265,3,1,1,0.5,0.16666666666666666,6,Poor,2024-05-12
+P0031,"Mitchell, Brown and Ford","[""Family Practice"",""Surgery""]",NE,null,null,null,null,null,null,null,null,null,Poor,null
+P0032,"Beard, Colon and Peters","[""Surgery"",""Gastroenterology"",""Radiology""]",NE,3,9931.72,3310.5733333333333,0,1,1,0,0.3333333333333333,3,Poor,2024-05-04
+P0033,Goodman Group,"[""Psychiatry"",""Dermatology""]",AZ,4,6528.59,1632.1475,1,1,2,0.25,0.25,4,Poor,2024-04-25
+P0034,Palmer Ltd,"[""Family Practice"",""Dermatology"",""Psychiatry""]",DC,5,7379.889999999999,1475.9779999999998,1,0,1,0.2,0,5,Poor,2024-05-27
+P0035,Richards-Johnson,"[""Radiology""]",TX,3,3383.0699999999997,1127.6899999999998,1,0,2,0.3333333333333333,0,3,Poor,2024-04-07
+P0036,"Mcconnell, Schmidt and Hansen","[""Internal Medicine"",""Dermatology""]",WY,4,7720.530000000001,1930.1325000000002,1,1,0,0.25,0.25,4,Poor,2024-04-17
+P0037,Glover Inc,"[""Psychiatry""]",MI,2,5119.61,2559.805,0,1,1,0,0.5,2,Poor,2024-05-14
+P0038,Wilson-Johnson,"[""Psychiatry""]",NV,5,11619.599999999999,2323.9199999999996,3,1,0,0.6,0.2,5,Poor,2024-05-05
+P0039,"Cox, Wilson and Pearson","[""Psychiatry"",""Neurology""]",SC,2,5067.47,2533.735,0,2,0,0,1,2,Poor,2024-05-20
+P0040,"Barber, Steele and Stokes","[""Family Practice""]",IA,1,3459.73,3459.73,0,0,0,0,0,1,Poor,2024-05-09
+P0041,Benjamin PLC,"[""Pathology"",""Pediatrics""]",DC,5,13882.580000000002,2776.5160000000005,2,1,0,0.4,0.2,5,Poor,2024-05-23
+P0042,"Williams, Peters and Lang","[""Dermatology""]",KS,5,7406.39,1481.278,0,0,3,0,0,5,Poor,2024-04-21
+P0043,"Medina, Mays and Yates","[""Oncology""]",VT,5,10632.39,2126.478,2,0,1,0.4,0,5,Poor,2024-05-21
+P0044,"Hoffman, Horn and Donaldson","[""Pathology"",""Surgery""]",WI,6,7979.609999999999,1329.9349999999997,1,2,1,0.16666666666666666,0.3333333333333333,5,Poor,2024-05-27
+P0045,"Frazier, Randall and Higgins","[""Psychiatry"",""Pediatrics""]",DE,2,3270.8,1635.4,0,1,1,0,0.5,2,Poor,2024-05-13
+P0046,White-Hicks,"[""Psychiatry"",""Neurology"",""Gastroenterology""]",IL,5,10772.710000000001,2154.5420000000004,3,1,0,0.6,0.2,5,Poor,2024-05-02
+P0047,Hernandez and Sons,"[""Internal Medicine"",""Oncology"",""Pediatrics""]",CT,4,7927.37,1981.8425,0,1,0,0,0.25,4,Poor,2024-04-13
+P0048,James-Williams,"[""Radiology"",""Psychiatry"",""Pathology""]",IA,4,5119.78,1279.945,1,1,1,0.25,0.25,4,Poor,2024-05-19
+P0049,"Gordon, Fleming and Myers","[""Pathology"",""Psychiatry""]",DC,3,5725.9,1908.6333333333332,1,1,0,0.3333333333333333,0.3333333333333333,3,Poor,2024-05-05
+P0050,"Smith, Ellison and Graves","[""Pathology"",""Surgery"",""Pediatrics""]",WY,4,8806.72,2201.68,0,0,3,0,0,4,Poor,2024-05-03
+P0051,Li Inc,"[""Dermatology""]",AL,2,1229.3999999999999,614.6999999999999,1,1,0,0.5,0.5,2,Poor,2024-05-13
+P0052,Harper Group,"[""Neurology"",""Pediatrics""]",NH,3,4791.889999999999,1597.2966666666664,1,0,1,0.3333333333333333,0,3,Poor,2024-05-24
+P0053,"Bryant, Smith and Conway","[""Radiology""]",PA,5,12577.09,2515.418,0,0,2,0,0,5,Poor,2024-05-30
+P0054,"Rogers, Reed and Williams","[""Neurology""]",MA,5,4216.24,843.2479999999999,1,1,2,0.2,0.2,5,Poor,2024-05-13
+P0055,Steele-Reese,"[""Gastroenterology"",""Radiology""]",ME,2,3107.96,1553.98,1,1,0,0.5,0.5,2,Poor,2024-05-25
+P0056,"Eaton, Stephens and Mitchell","[""Radiology"",""Gastroenterology""]",CT,4,10393.81,2598.4525,0,2,2,0,0.5,4,Poor,2024-05-06
+P0057,"Lee, Ward and Gray","[""Cardiology"",""Pathology"",""Oncology""]",WV,6,5473.7300000000005,912.2883333333334,1,2,1,0.16666666666666666,0.3333333333333333,6,Poor,2024-05-28
+P0058,Marshall Inc,"[""Dermatology"",""Pathology"",""Family Practice""]",TX,3,5990.18,1996.7266666666667,0,1,0,0,0.3333333333333333,3,Poor,2024-05-19
+P0059,Young PLC,"[""Surgery"",""Dermatology""]",TX,2,2307.1800000000003,1153.5900000000001,0,0,0,0,0,2,Poor,2024-03-09
+P0060,"Arellano, Willis and Hernandez","[""Family Practice"",""Internal Medicine"",""Oncology""]",IN,5,7793.52,1558.7040000000002,0,2,1,0,0.4,5,Poor,2024-05-19
+P0061,Ali LLC,"[""Cardiology"",""Family Practice""]",IA,2,2095.45,1047.725,0,0,0,0,0,2,Poor,2024-04-28
+P0062,Cooper-Hayes,"[""Cardiology""]",IN,2,5278.8,2639.4,0,1,0,0,0.5,2,Poor,2024-05-09
+P0063,Ferguson-Christensen,"[""Neurology"",""Psychiatry""]",CA,2,4979.71,2489.855,0,1,1,0,0.5,2,Poor,2024-03-13
+P0064,Chan-Osborne,"[""Oncology"",""Cardiology"",""Dermatology""]",AK,5,13221.169999999998,2644.2339999999995,1,2,0,0.2,0.4,5,Poor,2024-05-25
+P0065,"Higgins, Jennings and Stewart","[""Oncology"",""Pediatrics""]",HI,2,5740.3099999999995,2870.1549999999997,0,1,0,0,0.5,2,Poor,2024-04-24
+P0066,Howe PLC,"[""Family Practice"",""Psychiatry""]",TX,6,15800.76,2633.46,2,1,3,0.3333333333333333,0.16666666666666666,6,Poor,2024-05-07
+P0067,Golden-Robinson,"[""Cardiology""]",MI,3,5906.04,1968.68,2,0,1,0.6666666666666666,0,3,Poor,2024-04-18
+P0068,Brown and Sons,"[""Pathology"",""Pediatrics"",""Internal Medicine""]",HI,3,4697.45,1565.8166666666666,0,0,2,0,0,3,Poor,2024-05-30
+P0069,Singleton Ltd,"[""Surgery"",""Pathology""]",WV,7,16958.61,2422.6585714285716,0,1,3,0,0.14285714285714285,7,Poor,2024-05-09
+P0070,Mccoy-Benitez,"[""Psychiatry"",""Internal Medicine"",""Oncology""]",RI,3,7225.1,2408.366666666667,1,0,1,0.3333333333333333,0,3,Poor,2024-05-04
+P0071,"Dixon, Reyes and Lester","[""Internal Medicine"",""Oncology""]",TN,3,4600,1533.3333333333333,0,1,1,0,0.3333333333333333,3,Poor,2024-04-27
+P0072,Miller-Cook,"[""Pathology"",""Dermatology""]",LA,4,6702.370000000001,1675.5925000000002,1,0,2,0.25,0,4,Poor,2024-05-21
+P0073,Johnson PLC,"[""Pathology"",""Pediatrics""]",GA,4,4414.83,1103.7075,2,0,1,0.5,0,4,Poor,2024-04-27
+P0074,Davis-Rogers,"[""Neurology""]",TX,2,3362.5600000000004,1681.2800000000002,0,0,1,0,0,2,Poor,2024-05-18
+P0075,Mckinney-Marshall,"[""Internal Medicine"",""Dermatology"",""Cardiology""]",NJ,3,6970.73,2323.5766666666664,0,0,1,0,0,3,Poor,2024-04-02
+P0076,Griffith-Levine,"[""Neurology"",""Gastroenterology"",""Family Practice""]",MN,5,5586.32,1117.264,0,4,1,0,0.8,5,Poor,2024-05-09
+P0077,Pacheco-Thomas,"[""Family Practice"",""Internal Medicine"",""Pediatrics""]",WI,3,5124.84,1708.28,2,0,1,0.6666666666666666,0,3,Poor,2024-05-24
+P0078,Smith-Roberts,"[""Pathology""]",NY,6,5688.959999999999,948.1599999999999,3,1,0,0.5,0.16666666666666666,6,Poor,2024-05-07
+P0079,Williams-Freeman,"[""Psychiatry"",""Neurology"",""Pediatrics""]",LA,null,null,null,null,null,null,null,null,null,Poor,null
+P0080,Cruz LLC,"[""Neurology""]",VT,2,2425.79,1212.895,1,0,0,0.5,0,2,Poor,2024-05-28
+P0081,"Rios, Carr and Rivera","[""Radiology"",""Gastroenterology""]",CA,3,6992.74,2330.9133333333334,3,0,0,1,0,3,Excellent,2024-05-15
+P0082,"Stokes, Cunningham and Bray","[""Internal Medicine"",""Gastroenterology"",""Oncology""]",MD,6,15101.86,2516.976666666667,1,2,3,0.16666666666666666,0.3333333333333333,5,Poor,2024-05-12
+P0083,Roberts and Sons,"[""Oncology"",""Pediatrics""]",IN,2,3262.37,1631.185,0,0,1,0,0,2,Poor,2024-03-21
+P0084,Watson-Brown,"[""Radiology""]",NM,3,3250.69,1083.5633333333333,1,1,1,0.3333333333333333,0.3333333333333333,3,Poor,2024-04-10
+P0085,Hebert-Bradley,"[""Pediatrics"",""Radiology""]",AR,3,7686.09,2562.03,0,1,1,0,0.3333333333333333,3,Poor,2024-05-12
+P0086,"Martinez, Guerrero and Lowe","[""Cardiology""]",NY,4,9112.78,2278.195,1,0,0,0.25,0,4,Poor,2024-05-16
+P0087,Gillespie-Bradley,"[""Psychiatry"",""Surgery""]",SD,2,4630.360000000001,2315.1800000000003,1,0,0,0.5,0,2,Poor,2024-03-26
+P0088,Anderson-Stanley,"[""Oncology""]",FL,2,5117.77,2558.885,0,1,1,0,0.5,2,Poor,2024-04-10
+P0089,Price-Collins,"[""Pathology"",""Oncology"",""Gastroenterology""]",NE,5,12354.400000000001,2470.88,1,2,1,0.2,0.4,5,Poor,2024-05-19
+P0090,Harmon and Sons,"[""Family Practice"",""Pathology"",""Cardiology""]",HI,2,6020.24,3010.12,0,0,2,0,0,2,Poor,2024-05-04
+P0091,"Hunt, Fletcher and Hendricks","[""Surgery""]",SD,8,17486.18,2185.7725,3,3,1,0.375,0.375,8,Poor,2024-05-25
+P0092,Taylor PLC,"[""Psychiatry""]",SD,4,9087.369999999999,2271.8424999999997,0,2,0,0,0.5,4,Poor,2024-05-19
+P0093,Smith Group,"[""Surgery"",""Gastroenterology""]",IA,7,16800.280000000002,2400.0400000000004,2,3,1,0.2857142857142857,0.42857142857142855,7,Poor,2024-05-30
+P0094,Rose-Gaines,"[""Pediatrics"",""Oncology""]",MT,1,2903.14,2903.14,0,1,0,0,1,1,Poor,2024-03-27
+P0095,Jackson Group,"[""Surgery"",""Family Practice"",""Cardiology""]",NV,3,5315.68,1771.8933333333334,0,0,2,0,0,3,Poor,2024-04-20
+P0096,Stewart Ltd,"[""Internal Medicine"",""Pediatrics""]",NH,5,12153.34,2430.668,1,0,0,0.2,0,5,Poor,2024-05-18
+P0097,Powell-Young,"[""Pediatrics"",""Dermatology""]",OK,2,5336.84,2668.42,0,0,1,0,0,2,Poor,2024-05-17
+P0098,"Richardson, James and Miller","[""Neurology"",""Surgery""]",WI,3,5184.780000000001,1728.2600000000002,0,2,0,0,0.6666666666666666,3,Poor,2024-04-27
+P0099,Dickerson LLC,"[""Gastroenterology""]",AK,3,5082.57,1694.1899999999998,1,0,1,0.3333333333333333,0,3,Poor,2024-05-21
+P0100,Gregory-Rodriguez,"[""Dermatology"",""Pediatrics""]",IL,5,11719.76,2343.952,2,0,2,0.4,0,5,Poor,2024-05-27
+P0101,Lopez Inc,"[""Surgery""]",VT,5,11283.869999999999,2256.774,1,2,0,0.2,0.4,5,Poor,2024-05-05
+P0102,Huber LLC,"[""Neurology"",""Pediatrics"",""Oncology""]",HI,4,9872.12,2468.03,0,2,0,0,0.5,4,Poor,2024-05-29
+P0103,"Valentine, Ochoa and Kerr","[""Radiology""]",ME,3,9272.64,3090.8799999999997,2,1,0,0.6666666666666666,0.3333333333333333,3,Poor,2024-05-21
+P0104,"Burns, Padilla and Aguilar","[""Neurology""]",DE,4,4243.88,1060.97,1,0,1,0.25,0,4,Poor,2024-05-24
+P0105,Edwards-Smith,"[""Cardiology"",""Surgery""]",RI,null,null,null,null,null,null,null,null,null,Poor,null
+P0106,Russell LLC,"[""Family Practice"",""Gastroenterology""]",IA,1,2124.7,2124.7,1,0,0,1,0,1,Excellent,2024-04-27
+P0107,Nichols-Hill,"[""Pediatrics"",""Psychiatry"",""Internal Medicine""]",FL,2,3438.3900000000003,1719.1950000000002,1,0,0,0.5,0,2,Poor,2024-04-11
+P0108,"Oconnor, Morrow and Cline","[""Internal Medicine"",""Pediatrics"",""Cardiology""]",CO,5,11200.779999999999,2240.156,0,0,3,0,0,5,Poor,2024-05-08
+P0109,"Reynolds, Hoffman and Woodard","[""Psychiatry"",""Radiology"",""Surgery""]",TN,3,5379.33,1793.11,0,0,1,0,0,3,Poor,2024-04-21
+P0110,"Madden, Taylor and Rodriguez","[""Psychiatry""]",WY,2,2568.56,1284.28,0,0,2,0,0,2,Poor,2024-05-24
+P0111,Marshall PLC,"[""Internal Medicine""]",IL,2,3179.92,1589.96,2,0,0,1,0,2,Excellent,2024-03-14
+P0112,"Cunningham, Robinson and Hughes","[""Family Practice"",""Pathology"",""Gastroenterology""]",IA,2,3754.62,1877.31,0,1,1,0,0.5,2,Poor,2024-04-14
+P0113,Bennett-Rodgers,"[""Gastroenterology"",""Family Practice""]",GA,3,2271.7499999999995,757.2499999999999,0,2,1,0,0.6666666666666666,3,Poor,2024-04-29
+P0114,Barrera-Garrett,"[""Pediatrics""]",ID,2,1965.72,982.86,0,1,1,0,0.5,2,Poor,2024-04-23
+P0115,Alvarado and Sons,"[""Internal Medicine"",""Pediatrics"",""Surgery""]",MO,3,8581.41,2860.47,0,1,1,0,0.3333333333333333,3,Poor,2024-05-09
+P0116,Davies-Evans,"[""Family Practice"",""Cardiology""]",WA,2,2602.3500000000004,1301.1750000000002,0,2,0,0,1,2,Poor,2024-03-21
+P0117,Smith Ltd,"[""Neurology"",""Surgery"",""Radiology""]",UT,4,10025.33,2506.3325,1,1,1,0.25,0.25,4,Poor,2024-04-29
+P0118,"Edwards, Jackson and Jones","[""Family Practice"",""Gastroenterology"",""Radiology""]",TX,6,14312.55,2385.4249999999997,2,2,2,0.3333333333333333,0.3333333333333333,5,Poor,2024-05-30
+P0119,"Griffin, Winters and Alexander","[""Neurology"",""Pathology"",""Radiology""]",MD,2,4022.27,2011.135,0,2,0,0,1,2,Poor,2024-05-06
+P0120,Weber-Cohen,"[""Gastroenterology"",""Oncology"",""Surgery""]",MD,5,12161.149999999998,2432.2299999999996,2,2,0,0.4,0.4,5,Poor,2024-05-20
+P0121,Medina PLC,"[""Surgery"",""Pediatrics"",""Family Practice""]",ND,null,null,null,null,null,null,null,null,null,Poor,null
+P0122,"Owens, Williams and Medina","[""Pediatrics""]",CO,null,null,null,null,null,null,null,null,null,Poor,null
+P0123,Cook-Douglas,"[""Cardiology""]",NV,null,null,null,null,null,null,null,null,null,Poor,null
+P0124,"Rosales, Gibbs and Floyd","[""Psychiatry""]",IL,null,null,null,null,null,null,null,null,null,Poor,null
+P0125,Brown and Sons,"[""Cardiology"",""Neurology""]",NJ,null,null,null,null,null,null,null,null,null,Poor,null
+P0126,"Green, Vaughn and Gilbert","[""Surgery"",""Dermatology""]",WA,null,null,null,null,null,null,null,null,null,Poor,null
+P0127,"Russo, Snyder and Owens","[""Surgery"",""Pathology"",""Neurology""]",OR,null,null,null,null,null,null,null,null,null,Poor,null
+P0128,Anderson-Alexander,"[""Family Practice""]",CO,null,null,null,null,null,null,null,null,null,Poor,null
+P0129,Jackson PLC,"[""Gastroenterology"",""Dermatology""]",HI,null,null,null,null,null,null,null,null,null,Poor,null
+P0130,"Torres, Mills and Guzman","[""Internal Medicine"",""Pathology""]",CO,null,null,null,null,null,null,null,null,null,Poor,null
+P0131,Perry PLC,"[""Pathology"",""Internal Medicine""]",NH,null,null,null,null,null,null,null,null,null,Poor,null
+P0132,Barrera and Sons,"[""Internal Medicine""]",TX,null,null,null,null,null,null,null,null,null,Poor,null
+P0133,"Hill, Cortez and Lara","[""Dermatology"",""Gastroenterology""]",KS,null,null,null,null,null,null,null,null,null,Poor,null
+P0134,"Preston, Porter and Davis","[""Family Practice"",""Cardiology"",""Gastroenterology""]",LA,null,null,null,null,null,null,null,null,null,Poor,null
+P0135,"Kennedy, Love and Cooke","[""Surgery"",""Psychiatry""]",PA,null,null,null,null,null,null,null,null,null,Poor,null
+P0136,Hayes Inc,"[""Psychiatry"",""Family Practice""]",DC,null,null,null,null,null,null,null,null,null,Poor,null
+P0137,Webster-Williams,"[""Internal Medicine""]",CO,null,null,null,null,null,null,null,null,null,Poor,null
+P0138,"Kim, Moss and Olsen","[""Cardiology""]",MT,null,null,null,null,null,null,null,null,null,Poor,null
+P0139,"Collier, Martin and Baker","[""Dermatology"",""Pathology""]",TN,null,null,null,null,null,null,null,null,null,Poor,null
+P0140,Bailey LLC,"[""Cardiology"",""Dermatology"",""Oncology""]",AK,null,null,null,null,null,null,null,null,null,Poor,null
+P0141,Ortiz-Griffin,"[""Gastroenterology""]",NC,null,null,null,null,null,null,null,null,null,Poor,null
+P0142,Rivera Inc,"[""Oncology""]",VA,null,null,null,null,null,null,null,null,null,Poor,null
+P0143,"Scott, Cameron and Gray","[""Family Practice"",""Internal Medicine"",""Cardiology""]",MS,null,null,null,null,null,null,null,null,null,Poor,null
+P0144,"Robinson, Jones and Adams","[""Gastroenterology"",""Oncology""]",MD,null,null,null,null,null,null,null,null,null,Poor,null
+P0145,Phillips-White,"[""Internal Medicine""]",OR,null,null,null,null,null,null,null,null,null,Poor,null
+P0146,Guzman-Terry,"[""Radiology"",""Psychiatry"",""Cardiology""]",OR,null,null,null,null,null,null,null,null,null,Poor,null
+P0147,Morris and Sons,"[""Surgery"",""Radiology"",""Gastroenterology""]",NJ,null,null,null,null,null,null,null,null,null,Poor,null
+P0148,Freeman-Kirby,"[""Family Practice""]",TX,null,null,null,null,null,null,null,null,null,Poor,null
+P0149,Cochran-Jackson,"[""Neurology""]",RI,null,null,null,null,null,null,null,null,null,Poor,null
+P0150,Kennedy-Thompson,"[""Psychiatry""]",TN,null,null,null,null,null,null,null,null,null,Poor,null
+P0151,Nguyen Inc,"[""Internal Medicine"",""Neurology"",""Cardiology""]",IL,null,null,null,null,null,null,null,null,null,Poor,null
+P0152,Wallace-Hess,"[""Neurology""]",ME,null,null,null,null,null,null,null,null,null,Poor,null
+P0153,Burke-White,"[""Pediatrics"",""Family Practice"",""Neurology""]",FL,null,null,null,null,null,null,null,null,null,Poor,null
+P0154,Beard-Harvey,"[""Family Practice"",""Pediatrics"",""Cardiology""]",SC,null,null,null,null,null,null,null,null,null,Poor,null
+P0155,"Rodriguez, Anderson and Miller","[""Pediatrics"",""Neurology"",""Dermatology""]",MI,null,null,null,null,null,null,null,null,null,Poor,null
+P0156,Jordan Ltd,"[""Psychiatry""]",ND,null,null,null,null,null,null,null,null,null,Poor,null
+P0157,Thomas-Miller,"[""Family Practice""]",MS,null,null,null,null,null,null,null,null,null,Poor,null
+P0158,Ruiz-Chen,"[""Psychiatry"",""Pathology"",""Family Practice""]",CA,null,null,null,null,null,null,null,null,null,Poor,null
+P0159,Hurst-Mcguire,"[""Oncology"",""Gastroenterology""]",AK,null,null,null,null,null,null,null,null,null,Poor,null
+P0160,Scott PLC,"[""Internal Medicine""]",SD,null,null,null,null,null,null,null,null,null,Poor,null
+P0161,Herman Group,"[""Neurology"",""Radiology""]",MI,null,null,null,null,null,null,null,null,null,Poor,null
+P0162,Holland-Palmer,"[""Family Practice"",""Neurology"",""Psychiatry""]",AL,null,null,null,null,null,null,null,null,null,Poor,null
+P0163,Perkins-Campbell,"[""Internal Medicine""]",VT,null,null,null,null,null,null,null,null,null,Poor,null
+P0164,Young PLC,"[""Pediatrics"",""Neurology"",""Gastroenterology""]",MI,null,null,null,null,null,null,null,null,null,Poor,null
+P0165,Bautista PLC,"[""Surgery"",""Internal Medicine""]",HI,null,null,null,null,null,null,null,null,null,Poor,null
+P0166,"Jefferson, Fisher and Schroeder","[""Neurology"",""Family Practice"",""Pediatrics""]",SC,null,null,null,null,null,null,null,null,null,Poor,null
+P0167,Smith-Owens,"[""Psychiatry"",""Internal Medicine"",""Gastroenterology""]",SD,null,null,null,null,null,null,null,null,null,Poor,null
+P0168,Wilkerson-Miller,"[""Psychiatry"",""Neurology""]",NH,null,null,null,null,null,null,null,null,null,Poor,null
+P0169,Meadows-Reed,"[""Family Practice"",""Oncology""]",ID,null,null,null,null,null,null,null,null,null,Poor,null
+P0170,Leonard and Sons,"[""Internal Medicine"",""Family Practice"",""Gastroenterology""]",LA,null,null,null,null,null,null,null,null,null,Poor,null
+P0171,Parker PLC,"[""Psychiatry"",""Pediatrics"",""Internal Medicine""]",VT,null,null,null,null,null,null,null,null,null,Poor,null
+P0172,Morales-Miller,"[""Family Practice"",""Cardiology"",""Radiology""]",NY,null,null,null,null,null,null,null,null,null,Poor,null
+P0173,Turner-Mora,"[""Pediatrics"",""Oncology"",""Psychiatry""]",GA,null,null,null,null,null,null,null,null,null,Poor,null
+P0174,Henderson-Skinner,"[""Family Practice""]",AL,null,null,null,null,null,null,null,null,null,Poor,null
+P0175,"Mccormick, Turner and Mercado","[""Pathology"",""Pediatrics""]",UT,null,null,null,null,null,null,null,null,null,Poor,null
+P0176,"Jordan, Rice and Johnson","[""Radiology"",""Internal Medicine"",""Pediatrics""]",GA,null,null,null,null,null,null,null,null,null,Poor,null
+P0177,Chavez-Reynolds,"[""Internal Medicine"",""Family Practice""]",GA,null,null,null,null,null,null,null,null,null,Poor,null
+P0178,Henderson-Howard,"[""Family Practice""]",PA,null,null,null,null,null,null,null,null,null,Poor,null
+P0179,Valdez-Davis,"[""Radiology"",""Family Practice"",""Neurology""]",WV,null,null,null,null,null,null,null,null,null,Poor,null
+P0180,"Lopez, Salazar and Parsons","[""Radiology"",""Oncology"",""Internal Medicine""]",ID,null,null,null,null,null,null,null,null,null,Poor,null
+P0181,Murray and Sons,"[""Radiology""]",ND,null,null,null,null,null,null,null,null,null,Poor,null
+P0182,Barrett-Owens,"[""Gastroenterology"",""Neurology"",""Surgery""]",HI,null,null,null,null,null,null,null,null,null,Poor,null
+P0183,Gomez-Parks,"[""Oncology"",""Family Practice""]",TN,null,null,null,null,null,null,null,null,null,Poor,null
+P0184,Wiggins Ltd,"[""Pathology""]",DC,null,null,null,null,null,null,null,null,null,Poor,null
+P0185,Blanchard-Williams,"[""Internal Medicine""]",MS,null,null,null,null,null,null,null,null,null,Poor,null
+P0186,Hurley Group,"[""Internal Medicine"",""Cardiology"",""Radiology""]",DE,null,null,null,null,null,null,null,null,null,Poor,null
+P0187,"Jimenez, Miller and Ayers","[""Pediatrics"",""Family Practice"",""Internal Medicine""]",NM,null,null,null,null,null,null,null,null,null,Poor,null
+P0188,Hanna Group,"[""Radiology"",""Internal Medicine""]",MI,null,null,null,null,null,null,null,null,null,Poor,null
+P0189,"Wood, Jackson and Jenkins","[""Pathology""]",FL,null,null,null,null,null,null,null,null,null,Poor,null
+P0190,Hernandez-Bush,"[""Internal Medicine"",""Psychiatry""]",KS,null,null,null,null,null,null,null,null,null,Poor,null
+P0191,"Wilson, Wang and Fischer","[""Cardiology"",""Family Practice"",""Neurology""]",MS,null,null,null,null,null,null,null,null,null,Poor,null
+P0192,"Harrington, Marshall and Ramos","[""Cardiology"",""Neurology""]",TN,null,null,null,null,null,null,null,null,null,Poor,null
+P0193,Johnson Group,"[""Pathology"",""Neurology"",""Dermatology""]",NE,null,null,null,null,null,null,null,null,null,Poor,null
+P0194,"Hanna, Villegas and Graham","[""Pediatrics"",""Family Practice"",""Dermatology""]",MI,null,null,null,null,null,null,null,null,null,Poor,null
+P0195,Hansen Inc,"[""Cardiology"",""Surgery"",""Pediatrics""]",CT,null,null,null,null,null,null,null,null,null,Poor,null
+P0196,"Taylor, Gaines and Swanson","[""Family Practice"",""Surgery"",""Oncology""]",CO,null,null,null,null,null,null,null,null,null,Poor,null
+P0197,Lowe LLC,"[""Family Practice"",""Psychiatry"",""Surgery""]",ID,null,null,null,null,null,null,null,null,null,Poor,null
+P0198,"Maxwell, Christian and Green","[""Psychiatry"",""Internal Medicine""]",PA,null,null,null,null,null,null,null,null,null,Poor,null
+P0199,Hickman-Davis,"[""Family Practice"",""Pediatrics""]",NM,null,null,null,null,null,null,null,null,null,Poor,null
+P0200,"Smith, Huang and Mitchell","[""Dermatology"",""Neurology""]",IL,null,null,null,null,null,null,null,null,null,Poor,null
+P0201,"Hart, Mcbride and Klein","[""Oncology"",""Pathology""]",NH,null,null,null,null,null,null,null,null,null,Poor,null
+P0202,"Boyer, Wong and Smith","[""Pathology"",""Cardiology"",""Dermatology""]",KS,null,null,null,null,null,null,null,null,null,Poor,null
+P0203,"Newman, Mills and Vargas","[""Oncology"",""Cardiology"",""Internal Medicine""]",NY,null,null,null,null,null,null,null,null,null,Poor,null
+P0204,"Harris, Love and Hutchinson","[""Radiology""]",MI,null,null,null,null,null,null,null,null,null,Poor,null
+P0205,Conway Inc,"[""Oncology""]",IA,null,null,null,null,null,null,null,null,null,Poor,null
+P0206,"Paul, Fry and Schmidt","[""Surgery""]",MT,null,null,null,null,null,null,null,null,null,Poor,null
+P0207,Raymond-Burton,"[""Pediatrics"",""Cardiology""]",GA,null,null,null,null,null,null,null,null,null,Poor,null
+P0208,"Randolph, Perez and Ortiz","[""Gastroenterology""]",ID,null,null,null,null,null,null,null,null,null,Poor,null
+P0209,"Holmes, Hoffman and Bowman","[""Dermatology"",""Family Practice""]",CT,null,null,null,null,null,null,null,null,null,Poor,null
+P0210,"Martinez, Acevedo and Payne","[""Neurology"",""Cardiology"",""Dermatology""]",ID,null,null,null,null,null,null,null,null,null,Poor,null
+P0211,Jackson Group,"[""Psychiatry"",""Cardiology"",""Oncology""]",OR,null,null,null,null,null,null,null,null,null,Poor,null
+P0212,"Carter, Williams and Martin","[""Pathology"",""Surgery"",""Family Practice""]",UT,null,null,null,null,null,null,null,null,null,Poor,null
+P0213,Livingston Group,"[""Surgery"",""Pathology"",""Radiology""]",NJ,null,null,null,null,null,null,null,null,null,Poor,null
+P0214,"Campos, Phillips and Decker","[""Psychiatry"",""Radiology"",""Oncology""]",SC,null,null,null,null,null,null,null,null,null,Poor,null
+P0215,Franco LLC,"[""Neurology"",""Radiology"",""Dermatology""]",RI,null,null,null,null,null,null,null,null,null,Poor,null
+P0216,Guzman-Williams,"[""Psychiatry"",""Surgery"",""Gastroenterology""]",NV,null,null,null,null,null,null,null,null,null,Poor,null
+P0217,Alvarez-Flores,"[""Oncology"",""Internal Medicine""]",SD,null,null,null,null,null,null,null,null,null,Poor,null
+P0218,Harper Ltd,"[""Oncology"",""Family Practice""]",IL,null,null,null,null,null,null,null,null,null,Poor,null
+P0219,Howard-Garcia,"[""Pediatrics"",""Surgery"",""Internal Medicine""]",PA,null,null,null,null,null,null,null,null,null,Poor,null
+P0220,Moore-Mason,"[""Pediatrics"",""Neurology""]",RI,null,null,null,null,null,null,null,null,null,Poor,null
+P0221,Rojas-Frazier,"[""Radiology""]",IA,null,null,null,null,null,null,null,null,null,Poor,null
+P0222,Riley Ltd,"[""Cardiology"",""Neurology"",""Dermatology""]",AK,null,null,null,null,null,null,null,null,null,Poor,null
+P0223,Maddox-Scott,"[""Dermatology"",""Pathology"",""Surgery""]",NY,null,null,null,null,null,null,null,null,null,Poor,null
+P0224,Weaver Inc,"[""Cardiology"",""Pediatrics"",""Dermatology""]",RI,null,null,null,null,null,null,null,null,null,Poor,null
+P0225,"Mccoy, Knight and Hodges","[""Pediatrics"",""Surgery"",""Oncology""]",UT,null,null,null,null,null,null,null,null,null,Poor,null
+P0226,Huff-Edwards,"[""Surgery"",""Radiology""]",IA,null,null,null,null,null,null,null,null,null,Poor,null
+P0227,"Farmer, Arnold and Diaz","[""Radiology"",""Gastroenterology""]",NC,null,null,null,null,null,null,null,null,null,Poor,null
+P0228,"Jones, Norman and Elliott","[""Neurology"",""Oncology""]",WY,null,null,null,null,null,null,null,null,null,Poor,null
+P0229,Rodriguez Group,"[""Surgery"",""Pediatrics"",""Radiology""]",ID,null,null,null,null,null,null,null,null,null,Poor,null
+P0230,Butler-Wood,"[""Cardiology"",""Surgery""]",WV,null,null,null,null,null,null,null,null,null,Poor,null
+P0231,"Wyatt, Boyd and Martinez","[""Dermatology"",""Oncology"",""Pediatrics""]",VT,null,null,null,null,null,null,null,null,null,Poor,null
+P0232,Hoffman and Sons,"[""Dermatology""]",VA,null,null,null,null,null,null,null,null,null,Poor,null
+P0233,"Palmer, Jenkins and Moore","[""Pediatrics""]",WA,null,null,null,null,null,null,null,null,null,Poor,null
+P0234,Harrison and Sons,"[""Pathology"",""Internal Medicine"",""Dermatology""]",WI,null,null,null,null,null,null,null,null,null,Poor,null
+P0235,"Cabrera, Lopez and Stephenson","[""Internal Medicine""]",IL,null,null,null,null,null,null,null,null,null,Poor,null
+P0236,Li-Reynolds,"[""Internal Medicine"",""Cardiology"",""Psychiatry""]",MT,null,null,null,null,null,null,null,null,null,Poor,null
+P0237,Dorsey-Matthews,"[""Family Practice"",""Oncology""]",AZ,null,null,null,null,null,null,null,null,null,Poor,null
+P0238,Bolton Inc,"[""Cardiology"",""Internal Medicine""]",DE,null,null,null,null,null,null,null,null,null,Poor,null
+P0239,Wilson Inc,"[""Psychiatry"",""Surgery"",""Internal Medicine""]",NV,null,null,null,null,null,null,null,null,null,Poor,null
+P0240,"Baxter, Hughes and Brennan","[""Cardiology"",""Gastroenterology"",""Internal Medicine""]",VT,null,null,null,null,null,null,null,null,null,Poor,null
+P0241,"Lopez, Baker and Gray","[""Pathology"",""Gastroenterology"",""Surgery""]",OR,null,null,null,null,null,null,null,null,null,Poor,null
+P0242,"Hamilton, Smith and Carr","[""Pathology""]",ND,null,null,null,null,null,null,null,null,null,Poor,null
+P0243,"Reyes, Jackson and Lewis","[""Gastroenterology"",""Pathology""]",NE,null,null,null,null,null,null,null,null,null,Poor,null
+P0244,"Fernandez, Mann and Williams","[""Gastroenterology""]",MS,null,null,null,null,null,null,null,null,null,Poor,null
+P0245,"Montgomery, Carter and Harris","[""Gastroenterology"",""Cardiology"",""Pediatrics""]",IN,null,null,null,null,null,null,null,null,null,Poor,null
+P0246,Anderson-Ramirez,"[""Gastroenterology"",""Surgery"",""Psychiatry""]",CO,null,null,null,null,null,null,null,null,null,Poor,null
+P0247,"Smith, Young and Wilson","[""Pediatrics"",""Dermatology"",""Gastroenterology""]",MA,null,null,null,null,null,null,null,null,null,Poor,null
+P0248,Hall-Hoffman,"[""Pediatrics""]",VT,null,null,null,null,null,null,null,null,null,Poor,null
+P0249,"Watts, Terry and Gonzales","[""Internal Medicine"",""Dermatology"",""Family Practice""]",AR,null,null,null,null,null,null,null,null,null,Poor,null
+P0250,Vincent-Hess,"[""Gastroenterology""]",OH,null,null,null,null,null,null,null,null,null,Poor,null
+P0251,Chavez PLC,"[""Pediatrics"",""Radiology"",""Surgery""]",WI,null,null,null,null,null,null,null,null,null,Poor,null
+P0252,"Allen, Fox and Yu","[""Surgery"",""Oncology"",""Gastroenterology""]",CA,null,null,null,null,null,null,null,null,null,Poor,null
+P0253,King-Smith,"[""Oncology""]",TX,null,null,null,null,null,null,null,null,null,Poor,null
+P0254,"King, Morris and Maxwell","[""Family Practice""]",IL,null,null,null,null,null,null,null,null,null,Poor,null
+P0255,"Mcclure, Nelson and Simpson","[""Internal Medicine"",""Oncology""]",ME,null,null,null,null,null,null,null,null,null,Poor,null
+P0256,Riggs PLC,"[""Gastroenterology"",""Family Practice""]",MA,null,null,null,null,null,null,null,null,null,Poor,null
+P0257,Holden LLC,"[""Psychiatry"",""Family Practice""]",AR,null,null,null,null,null,null,null,null,null,Poor,null
+P0258,"Bowen, Bailey and Ortiz","[""Oncology"",""Pathology""]",CA,null,null,null,null,null,null,null,null,null,Poor,null
+P0259,"Ramirez, Ruiz and Greene","[""Psychiatry"",""Surgery"",""Radiology""]",OK,null,null,null,null,null,null,null,null,null,Poor,null
+P0260,"Gill, Alexander and Cannon","[""Neurology"",""Gastroenterology"",""Family Practice""]",CA,null,null,null,null,null,null,null,null,null,Poor,null
+P0261,Orozco PLC,"[""Dermatology""]",VT,null,null,null,null,null,null,null,null,null,Poor,null
+P0262,Miles LLC,"[""Cardiology"",""Oncology"",""Surgery""]",TX,null,null,null,null,null,null,null,null,null,Poor,null
+P0263,"Rodriguez, Griffin and Chapman","[""Cardiology""]",NH,null,null,null,null,null,null,null,null,null,Poor,null
+P0264,"Haas, Johns and Swanson","[""Family Practice"",""Oncology""]",IN,null,null,null,null,null,null,null,null,null,Poor,null
+P0265,"Smith, Alexander and Patterson","[""Pediatrics"",""Psychiatry""]",NH,null,null,null,null,null,null,null,null,null,Poor,null
+P0266,Rojas-Charles,"[""Cardiology""]",KS,null,null,null,null,null,null,null,null,null,Poor,null
+P0267,Wheeler and Sons,"[""Neurology"",""Cardiology"",""Gastroenterology""]",MN,null,null,null,null,null,null,null,null,null,Poor,null
+P0268,Medina-Parker,"[""Oncology""]",ID,null,null,null,null,null,null,null,null,null,Poor,null
+P0269,"Mcguire, Watkins and Stewart","[""Family Practice""]",NM,null,null,null,null,null,null,null,null,null,Poor,null
+P0270,Little-Wheeler,"[""Internal Medicine"",""Pediatrics""]",SD,null,null,null,null,null,null,null,null,null,Poor,null
+P0271,Cannon-Marquez,"[""Cardiology"",""Family Practice""]",MN,null,null,null,null,null,null,null,null,null,Poor,null
+P0272,Webster-Solis,"[""Dermatology"",""Gastroenterology"",""Radiology""]",NY,null,null,null,null,null,null,null,null,null,Poor,null
+P0273,Hill and Sons,"[""Surgery"",""Radiology""]",IL,null,null,null,null,null,null,null,null,null,Poor,null
+P0274,Thompson-Gordon,"[""Pathology"",""Family Practice""]",WV,null,null,null,null,null,null,null,null,null,Poor,null
+P0275,"Williams, Simpson and Russo","[""Cardiology"",""Radiology""]",CT,null,null,null,null,null,null,null,null,null,Poor,null
+P0276,"Reed, Dickerson and Schmitt","[""Dermatology"",""Neurology""]",OR,null,null,null,null,null,null,null,null,null,Poor,null
+P0277,Evans-Manning,"[""Neurology"",""Psychiatry"",""Radiology""]",PA,null,null,null,null,null,null,null,null,null,Poor,null
+P0278,Kelly Inc,"[""Internal Medicine"",""Radiology""]",WA,null,null,null,null,null,null,null,null,null,Poor,null
+P0279,Moore-Becker,"[""Oncology"",""Internal Medicine""]",FL,null,null,null,null,null,null,null,null,null,Poor,null
+P0280,"Lewis, Moore and Peters","[""Radiology"",""Psychiatry"",""Cardiology""]",UT,null,null,null,null,null,null,null,null,null,Poor,null
+P0281,Fisher LLC,"[""Radiology""]",VT,null,null,null,null,null,null,null,null,null,Poor,null
+P0282,Page PLC,"[""Dermatology"",""Oncology""]",OK,null,null,null,null,null,null,null,null,null,Poor,null
+P0283,Jones PLC,"[""Dermatology""]",VA,null,null,null,null,null,null,null,null,null,Poor,null
+P0284,Rocha-Anderson,"[""Radiology"",""Psychiatry""]",TN,null,null,null,null,null,null,null,null,null,Poor,null
+P0285,Bray-Kelley,"[""Pathology"",""Surgery"",""Dermatology""]",DE,null,null,null,null,null,null,null,null,null,Poor,null
+P0286,"Evans, Reid and Ross","[""Pathology"",""Pediatrics""]",NE,null,null,null,null,null,null,null,null,null,Poor,null
+P0287,"Russell, Holt and King","[""Gastroenterology""]",VA,null,null,null,null,null,null,null,null,null,Poor,null
+P0288,"Adams, Stanton and Carter","[""Psychiatry""]",OK,null,null,null,null,null,null,null,null,null,Poor,null
+P0289,Anderson LLC,"[""Family Practice"",""Radiology""]",VT,null,null,null,null,null,null,null,null,null,Poor,null
+P0290,Freeman-Keller,"[""Family Practice""]",WY,null,null,null,null,null,null,null,null,null,Poor,null
+P0291,"King, Smith and Wiggins","[""Psychiatry"",""Pediatrics""]",VT,null,null,null,null,null,null,null,null,null,Poor,null
+P0292,Manning Inc,"[""Gastroenterology"",""Surgery"",""Family Practice""]",IN,null,null,null,null,null,null,null,null,null,Poor,null
+P0293,Mitchell-Pittman,"[""Pathology"",""Pediatrics"",""Neurology""]",AK,null,null,null,null,null,null,null,null,null,Poor,null
+P0294,"Madden, Lopez and Mckenzie","[""Family Practice"",""Pathology""]",UT,null,null,null,null,null,null,null,null,null,Poor,null
+P0295,Smith-Green,"[""Oncology"",""Neurology"",""Pathology""]",DC,null,null,null,null,null,null,null,null,null,Poor,null
+P0296,Smith-Torres,"[""Gastroenterology"",""Psychiatry"",""Neurology""]",VA,null,null,null,null,null,null,null,null,null,Poor,null
+P0297,"Taylor, Fowler and Chapman","[""Dermatology""]",CT,null,null,null,null,null,null,null,null,null,Poor,null
+P0298,"Cowan, Smith and Riddle","[""Neurology"",""Family Practice""]",NE,null,null,null,null,null,null,null,null,null,Poor,null
+P0299,"Wright, Barnes and Long","[""Pediatrics""]",NJ,null,null,null,null,null,null,null,null,null,Poor,null
+P0300,Mueller PLC,"[""Gastroenterology"",""Internal Medicine"",""Family Practice""]",MO,null,null,null,null,null,null,null,null,null,Poor,null
+P0301,Lynn-Crawford,"[""Dermatology"",""Gastroenterology""]",WI,null,null,null,null,null,null,null,null,null,Poor,null
+P0302,Brown PLC,"[""Gastroenterology"",""Internal Medicine"",""Psychiatry""]",IA,null,null,null,null,null,null,null,null,null,Poor,null
+P0303,Hoffman-Bell,"[""Oncology""]",OK,null,null,null,null,null,null,null,null,null,Poor,null
+P0304,"Myers, Cortez and Cabrera","[""Family Practice"",""Dermatology"",""Psychiatry""]",AK,null,null,null,null,null,null,null,null,null,Poor,null
+P0305,"Taylor, Coleman and Thompson","[""Pediatrics"",""Surgery""]",MA,null,null,null,null,null,null,null,null,null,Poor,null
+P0306,Jenkins LLC,"[""Gastroenterology"",""Psychiatry""]",NE,null,null,null,null,null,null,null,null,null,Poor,null
+P0307,Martin-Rose,"[""Dermatology""]",GA,null,null,null,null,null,null,null,null,null,Poor,null
+P0308,"Hughes, Lewis and Fry","[""Neurology"",""Gastroenterology""]",MD,null,null,null,null,null,null,null,null,null,Poor,null
+P0309,"Brown, Maynard and Tanner","[""Cardiology""]",OH,null,null,null,null,null,null,null,null,null,Poor,null
+P0310,"Jenkins, Chen and Myers","[""Pediatrics"",""Pathology""]",NM,null,null,null,null,null,null,null,null,null,Poor,null
+P0311,Clark-Navarro,"[""Internal Medicine"",""Family Practice""]",AK,null,null,null,null,null,null,null,null,null,Poor,null
+P0312,Williams-Foster,"[""Pathology""]",IN,null,null,null,null,null,null,null,null,null,Poor,null
+P0313,Tucker Group,"[""Internal Medicine"",""Pathology"",""Psychiatry""]",IL,null,null,null,null,null,null,null,null,null,Poor,null
+P0314,"Delacruz, Martinez and Potts","[""Cardiology"",""Neurology""]",OH,null,null,null,null,null,null,null,null,null,Poor,null
+P0315,"Pacheco, Turner and Gonzalez","[""Oncology""]",IL,null,null,null,null,null,null,null,null,null,Poor,null
+P0316,Schmidt-Bell,"[""Psychiatry""]",NJ,null,null,null,null,null,null,null,null,null,Poor,null
+P0317,Gardner-Lee,"[""Neurology"",""Surgery""]",AK,null,null,null,null,null,null,null,null,null,Poor,null
+P0318,Perez-Chung,"[""Psychiatry""]",VT,null,null,null,null,null,null,null,null,null,Poor,null
+P0319,"Walker, Hubbard and Tucker","[""Cardiology"",""Internal Medicine""]",MO,null,null,null,null,null,null,null,null,null,Poor,null
+P0320,Johnson-Gregory,"[""Neurology"",""Gastroenterology"",""Oncology""]",NV,null,null,null,null,null,null,null,null,null,Poor,null
+P0321,"Krause, Lambert and Hardy","[""Pediatrics"",""Surgery"",""Radiology""]",KS,null,null,null,null,null,null,null,null,null,Poor,null
+P0322,"Vaughn, Garza and Crawford","[""Cardiology""]",SC,null,null,null,null,null,null,null,null,null,Poor,null
+P0323,"Mcconnell, Banks and Lee","[""Surgery"",""Gastroenterology"",""Psychiatry""]",WA,null,null,null,null,null,null,null,null,null,Poor,null
+P0324,Sheppard-Armstrong,"[""Pathology""]",KS,null,null,null,null,null,null,null,null,null,Poor,null
+P0325,Jones Group,"[""Family Practice""]",CO,null,null,null,null,null,null,null,null,null,Poor,null
+P0326,Hill-Woods,"[""Cardiology"",""Pathology"",""Radiology""]",GA,null,null,null,null,null,null,null,null,null,Poor,null
+P0327,Scott PLC,"[""Internal Medicine""]",PA,null,null,null,null,null,null,null,null,null,Poor,null
+P0328,Knight-Romero,"[""Radiology"",""Oncology"",""Family Practice""]",CO,null,null,null,null,null,null,null,null,null,Poor,null
+P0329,King-Martinez,"[""Dermatology"",""Surgery"",""Pathology""]",IA,null,null,null,null,null,null,null,null,null,Poor,null
+P0330,Burns PLC,"[""Pediatrics""]",SC,null,null,null,null,null,null,null,null,null,Poor,null
+P0331,Khan-Pitts,"[""Dermatology""]",AL,null,null,null,null,null,null,null,null,null,Poor,null
+P0332,Rodriguez-Martin,"[""Internal Medicine"",""Cardiology"",""Dermatology""]",KS,null,null,null,null,null,null,null,null,null,Poor,null
+P0333,"Douglas, Bell and Hall","[""Psychiatry"",""Internal Medicine""]",ID,null,null,null,null,null,null,null,null,null,Poor,null
+P0334,Terry Group,"[""Internal Medicine""]",HI,null,null,null,null,null,null,null,null,null,Poor,null
+P0335,Phelps PLC,"[""Pathology""]",OR,null,null,null,null,null,null,null,null,null,Poor,null
+P0336,"Schroeder, Richardson and Sanchez","[""Radiology"",""Psychiatry"",""Dermatology""]",WI,null,null,null,null,null,null,null,null,null,Poor,null
+P0337,Valdez Ltd,"[""Radiology""]",WV,null,null,null,null,null,null,null,null,null,Poor,null
+P0338,Johnson Group,"[""Psychiatry"",""Radiology""]",MO,null,null,null,null,null,null,null,null,null,Poor,null
+P0339,"Roy, Bailey and Estrada","[""Psychiatry"",""Neurology"",""Pathology""]",CO,null,null,null,null,null,null,null,null,null,Poor,null
+P0340,"Thompson, Rogers and Middleton","[""Gastroenterology"",""Surgery"",""Internal Medicine""]",MT,null,null,null,null,null,null,null,null,null,Poor,null
+P0341,"Kelly, Davis and Graham","[""Gastroenterology""]",CT,null,null,null,null,null,null,null,null,null,Poor,null
+P0342,Griffin Group,"[""Neurology"",""Cardiology""]",NC,null,null,null,null,null,null,null,null,null,Poor,null
+P0343,"Snyder, Lopez and Ayers","[""Oncology"",""Cardiology"",""Neurology""]",AR,null,null,null,null,null,null,null,null,null,Poor,null
+P0344,Brown LLC,"[""Dermatology"",""Pediatrics"",""Pathology""]",MI,null,null,null,null,null,null,null,null,null,Poor,null
+P0345,Davis-Reid,"[""Dermatology"",""Gastroenterology"",""Neurology""]",DC,null,null,null,null,null,null,null,null,null,Poor,null
+P0346,Murray Group,"[""Dermatology"",""Gastroenterology""]",HI,null,null,null,null,null,null,null,null,null,Poor,null
+P0347,"Erickson, Sullivan and Mora","[""Internal Medicine""]",SD,null,null,null,null,null,null,null,null,null,Poor,null
+P0348,Thomas and Sons,"[""Pathology""]",SD,null,null,null,null,null,null,null,null,null,Poor,null
+P0349,Brooks Group,"[""Pathology""]",CA,null,null,null,null,null,null,null,null,null,Poor,null
+P0350,"Tucker, Vang and Delgado","[""Neurology"",""Dermatology"",""Internal Medicine""]",WV,null,null,null,null,null,null,null,null,null,Poor,null
+P0351,Rogers LLC,"[""Psychiatry"",""Internal Medicine""]",TX,null,null,null,null,null,null,null,null,null,Poor,null
+P0352,Davis-Delacruz,"[""Family Practice"",""Pediatrics"",""Cardiology""]",CO,null,null,null,null,null,null,null,null,null,Poor,null
+P0353,Robinson Ltd,"[""Pathology"",""Radiology""]",SD,null,null,null,null,null,null,null,null,null,Poor,null
+P0354,Randolph-Lee,"[""Gastroenterology""]",MT,null,null,null,null,null,null,null,null,null,Poor,null
+P0355,"Cole, Kim and Oliver","[""Psychiatry""]",KS,null,null,null,null,null,null,null,null,null,Poor,null
+P0356,Smith-Larsen,"[""Radiology"",""Cardiology""]",MA,null,null,null,null,null,null,null,null,null,Poor,null
+P0357,Bryant-Smith,"[""Oncology"",""Pediatrics"",""Pathology""]",RI,null,null,null,null,null,null,null,null,null,Poor,null
+P0358,Leon-Hamilton,"[""Gastroenterology"",""Pathology"",""Oncology""]",MN,null,null,null,null,null,null,null,null,null,Poor,null
+P0359,"Campbell, Hall and Sanchez","[""Radiology""]",FL,null,null,null,null,null,null,null,null,null,Poor,null
+P0360,Morris-Brewer,"[""Surgery""]",MS,null,null,null,null,null,null,null,null,null,Poor,null
+P0361,George PLC,"[""Pathology"",""Internal Medicine"",""Family Practice""]",PA,null,null,null,null,null,null,null,null,null,Poor,null
+P0362,Johnson-Morris,"[""Psychiatry"",""Surgery""]",CA,null,null,null,null,null,null,null,null,null,Poor,null
+P0363,"Sharp, Perez and Thomas","[""Family Practice"",""Cardiology""]",NV,null,null,null,null,null,null,null,null,null,Poor,null
+P0364,Esparza Group,"[""Dermatology"",""Oncology""]",MO,null,null,null,null,null,null,null,null,null,Poor,null
+P0365,Schroeder Inc,"[""Cardiology""]",NC,null,null,null,null,null,null,null,null,null,Poor,null
+P0366,Brown-Mcconnell,"[""Neurology"",""Pathology""]",MI,null,null,null,null,null,null,null,null,null,Poor,null
+P0367,Coleman LLC,"[""Family Practice"",""Oncology""]",OK,null,null,null,null,null,null,null,null,null,Poor,null
+P0368,Robles Inc,"[""Cardiology"",""Gastroenterology""]",KS,null,null,null,null,null,null,null,null,null,Poor,null
+P0369,Pope Inc,"[""Psychiatry"",""Gastroenterology""]",AL,null,null,null,null,null,null,null,null,null,Poor,null
+P0370,Gibson-Jones,"[""Pediatrics"",""Family Practice""]",RI,null,null,null,null,null,null,null,null,null,Poor,null
+P0371,"Oliver, Flores and Romero","[""Pathology"",""Neurology""]",AZ,null,null,null,null,null,null,null,null,null,Poor,null
+P0372,"Mullins, Long and Walker","[""Psychiatry""]",MS,null,null,null,null,null,null,null,null,null,Poor,null
+P0373,Gates-Cooper,"[""Gastroenterology""]",VA,null,null,null,null,null,null,null,null,null,Poor,null
+P0374,"Thompson, Barry and Carpenter","[""Neurology"",""Dermatology"",""Pathology""]",IN,null,null,null,null,null,null,null,null,null,Poor,null
+P0375,"Wood, Abbott and Meyer","[""Family Practice""]",MA,null,null,null,null,null,null,null,null,null,Poor,null
+P0376,"Gibbs, Jones and Clark","[""Neurology""]",AK,null,null,null,null,null,null,null,null,null,Poor,null
+P0377,Smith-Walker,"[""Cardiology"",""Gastroenterology"",""Family Practice""]",NJ,null,null,null,null,null,null,null,null,null,Poor,null
+P0378,Smith LLC,"[""Pediatrics""]",OH,null,null,null,null,null,null,null,null,null,Poor,null
+P0379,Stuart-Howe,"[""Radiology"",""Neurology"",""Surgery""]",ID,null,null,null,null,null,null,null,null,null,Poor,null
+P0380,Atkins-Young,"[""Surgery"",""Cardiology"",""Family Practice""]",NJ,null,null,null,null,null,null,null,null,null,Poor,null
+P0381,Diaz Inc,"[""Neurology""]",MN,null,null,null,null,null,null,null,null,null,Poor,null
+P0382,Carter Ltd,"[""Radiology""]",IA,null,null,null,null,null,null,null,null,null,Poor,null
+P0383,Jones Ltd,"[""Cardiology""]",KS,null,null,null,null,null,null,null,null,null,Poor,null
+P0384,"King, Griffin and Morse","[""Oncology""]",IL,null,null,null,null,null,null,null,null,null,Poor,null
+P0385,"Wang, Drake and Peters","[""Cardiology"",""Psychiatry""]",NJ,null,null,null,null,null,null,null,null,null,Poor,null
+P0386,"Gonzales, Ashley and Berry","[""Cardiology""]",NM,null,null,null,null,null,null,null,null,null,Poor,null
+P0387,Henry-Duncan,"[""Psychiatry""]",IA,null,null,null,null,null,null,null,null,null,Poor,null
+P0388,Gonzalez-Ingram,"[""Gastroenterology"",""Dermatology""]",TN,null,null,null,null,null,null,null,null,null,Poor,null
+P0389,Stout-Johnson,"[""Cardiology"",""Surgery"",""Pathology""]",ND,null,null,null,null,null,null,null,null,null,Poor,null
+P0390,Santos and Sons,"[""Psychiatry""]",TN,null,null,null,null,null,null,null,null,null,Poor,null
+P0391,Pollard and Sons,"[""Pathology"",""Oncology""]",PA,null,null,null,null,null,null,null,null,null,Poor,null
+P0392,"Morgan, Jensen and Rocha","[""Dermatology""]",CA,null,null,null,null,null,null,null,null,null,Poor,null
+P0393,"Mclaughlin, Hudson and Smith","[""Cardiology"",""Gastroenterology""]",WY,null,null,null,null,null,null,null,null,null,Poor,null
+P0394,"Turner, Cervantes and Hill","[""Internal Medicine"",""Surgery"",""Neurology""]",OH,null,null,null,null,null,null,null,null,null,Poor,null
+P0395,"Walker, Mccoy and Rogers","[""Gastroenterology"",""Dermatology"",""Neurology""]",OH,null,null,null,null,null,null,null,null,null,Poor,null
+P0396,"Tran, Miranda and Hoffman","[""Neurology"",""Pediatrics""]",OH,null,null,null,null,null,null,null,null,null,Poor,null
+P0397,Brown Ltd,"[""Neurology"",""Family Practice"",""Oncology""]",IL,null,null,null,null,null,null,null,null,null,Poor,null
+P0398,Long-Wright,"[""Oncology"",""Radiology"",""Gastroenterology""]",WI,null,null,null,null,null,null,null,null,null,Poor,null
+P0399,Miranda Group,"[""Surgery"",""Gastroenterology"",""Psychiatry""]",NJ,null,null,null,null,null,null,null,null,null,Poor,null
+P0400,Norris-Clark,"[""Pathology"",""Pediatrics""]",NV,null,null,null,null,null,null,null,null,null,Poor,null
+P0401,White Group,"[""Oncology"",""Internal Medicine""]",MN,null,null,null,null,null,null,null,null,null,Poor,null
+P0402,Miller-Stanton,"[""Radiology"",""Psychiatry""]",WY,null,null,null,null,null,null,null,null,null,Poor,null
+P0403,"Hernandez, Salazar and Chavez","[""Gastroenterology"",""Neurology"",""Psychiatry""]",SC,null,null,null,null,null,null,null,null,null,Poor,null
+P0404,Little Inc,"[""Neurology""]",NH,null,null,null,null,null,null,null,null,null,Poor,null
+P0405,Wood Inc,"[""Family Practice"",""Internal Medicine""]",TN,null,null,null,null,null,null,null,null,null,Poor,null
+P0406,Cuevas-Smith,"[""Pathology""]",VT,null,null,null,null,null,null,null,null,null,Poor,null
+P0407,Pittman-Harper,"[""Gastroenterology"",""Family Practice""]",LA,null,null,null,null,null,null,null,null,null,Poor,null
+P0408,Rivera and Sons,"[""Neurology"",""Pathology""]",IL,null,null,null,null,null,null,null,null,null,Poor,null
+P0409,"Smith, James and Lester","[""Family Practice"",""Gastroenterology"",""Pathology""]",FL,null,null,null,null,null,null,null,null,null,Poor,null
+P0410,"Henson, Galloway and Payne","[""Family Practice"",""Dermatology"",""Surgery""]",HI,null,null,null,null,null,null,null,null,null,Poor,null
+P0411,Smith-Miller,"[""Internal Medicine""]",GA,null,null,null,null,null,null,null,null,null,Poor,null
+P0412,"Harris, Bell and Edwards","[""Internal Medicine"",""Psychiatry""]",MT,null,null,null,null,null,null,null,null,null,Poor,null
+P0413,Sanders-Collins,"[""Psychiatry"",""Gastroenterology"",""Family Practice""]",MO,null,null,null,null,null,null,null,null,null,Poor,null
+P0414,"Maldonado, Garcia and Doyle","[""Gastroenterology"",""Pediatrics"",""Dermatology""]",IN,null,null,null,null,null,null,null,null,null,Poor,null
+P0415,"Holloway, Hernandez and Young","[""Internal Medicine"",""Neurology"",""Gastroenterology""]",VA,null,null,null,null,null,null,null,null,null,Poor,null
+P0416,Sanders Group,"[""Pathology"",""Oncology"",""Dermatology""]",WI,null,null,null,null,null,null,null,null,null,Poor,null
+P0417,Barnes and Sons,"[""Gastroenterology"",""Pediatrics"",""Psychiatry""]",OR,null,null,null,null,null,null,null,null,null,Poor,null
+P0418,Pacheco-Gonzales,"[""Family Practice"",""Oncology"",""Psychiatry""]",WI,null,null,null,null,null,null,null,null,null,Poor,null
+P0419,Hampton-Richards,"[""Internal Medicine"",""Cardiology""]",IA,null,null,null,null,null,null,null,null,null,Poor,null
+P0420,Jones-Lopez,"[""Psychiatry"",""Pathology""]",NJ,null,null,null,null,null,null,null,null,null,Poor,null
+P0421,Blackwell LLC,"[""Surgery""]",RI,null,null,null,null,null,null,null,null,null,Poor,null
+P0422,"Stewart, French and Scott","[""Internal Medicine"",""Oncology""]",TX,null,null,null,null,null,null,null,null,null,Poor,null
+P0423,Morrison LLC,"[""Family Practice"",""Radiology""]",UT,null,null,null,null,null,null,null,null,null,Poor,null
+P0424,Garcia-Roberts,"[""Oncology"",""Family Practice"",""Gastroenterology""]",NE,null,null,null,null,null,null,null,null,null,Poor,null
+P0425,Newman and Sons,"[""Pediatrics"",""Cardiology""]",OK,null,null,null,null,null,null,null,null,null,Poor,null
+P0426,"Kemp, Hernandez and Porter","[""Internal Medicine"",""Oncology"",""Cardiology""]",AL,null,null,null,null,null,null,null,null,null,Poor,null
+P0427,"Stewart, Fischer and Robinson","[""Radiology"",""Pathology"",""Surgery""]",ID,null,null,null,null,null,null,null,null,null,Poor,null
+P0428,Morton-Simpson,"[""Neurology"",""Dermatology""]",IN,null,null,null,null,null,null,null,null,null,Poor,null
+P0429,Hall Group,"[""Surgery"",""Dermatology"",""Cardiology""]",MT,null,null,null,null,null,null,null,null,null,Poor,null
+P0430,"Soto, Wells and Rush","[""Surgery""]",NH,null,null,null,null,null,null,null,null,null,Poor,null
+P0431,Davis Group,"[""Psychiatry"",""Internal Medicine"",""Cardiology""]",TX,null,null,null,null,null,null,null,null,null,Poor,null
+P0432,Bishop-Lyons,"[""Surgery"",""Pathology""]",NH,null,null,null,null,null,null,null,null,null,Poor,null
+P0433,Kramer-Wu,"[""Pathology"",""Pediatrics"",""Internal Medicine""]",MD,null,null,null,null,null,null,null,null,null,Poor,null
+P0434,Cook-Perkins,"[""Cardiology"",""Oncology""]",VA,null,null,null,null,null,null,null,null,null,Poor,null
+P0435,Blake-Velasquez,"[""Oncology"",""Psychiatry""]",WY,null,null,null,null,null,null,null,null,null,Poor,null
+P0436,Buchanan-Davis,"[""Radiology"",""Psychiatry"",""Dermatology""]",FL,null,null,null,null,null,null,null,null,null,Poor,null
+P0437,Morris Ltd,"[""Psychiatry"",""Family Practice""]",CO,null,null,null,null,null,null,null,null,null,Poor,null
+P0438,Gray and Sons,"[""Pediatrics"",""Neurology""]",TX,null,null,null,null,null,null,null,null,null,Poor,null
+P0439,Kent Inc,"[""Cardiology"",""Pediatrics""]",HI,null,null,null,null,null,null,null,null,null,Poor,null
+P0440,Gregory PLC,"[""Surgery"",""Family Practice"",""Pathology""]",MT,null,null,null,null,null,null,null,null,null,Poor,null
+P0441,Leonard-Rowe,"[""Surgery""]",SC,null,null,null,null,null,null,null,null,null,Poor,null
+P0442,Shepherd PLC,"[""Oncology""]",SC,null,null,null,null,null,null,null,null,null,Poor,null
+P0443,"Gonzalez, Jones and Lopez","[""Surgery""]",CA,null,null,null,null,null,null,null,null,null,Poor,null
+P0444,Jones LLC,"[""Psychiatry"",""Gastroenterology"",""Pediatrics""]",AZ,null,null,null,null,null,null,null,null,null,Poor,null
+P0445,Evans and Sons,"[""Radiology""]",CA,null,null,null,null,null,null,null,null,null,Poor,null
+P0446,"Hart, Dorsey and Taylor","[""Family Practice"",""Neurology""]",ME,null,null,null,null,null,null,null,null,null,Poor,null
+P0447,Dickerson-Murphy,"[""Internal Medicine"",""Radiology""]",MO,null,null,null,null,null,null,null,null,null,Poor,null
+P0448,Massey Ltd,"[""Surgery"",""Internal Medicine"",""Dermatology""]",FL,null,null,null,null,null,null,null,null,null,Poor,null
+P0449,"Moore, Roberts and Le","[""Pediatrics"",""Internal Medicine""]",AL,null,null,null,null,null,null,null,null,null,Poor,null
+P0450,"Sparks, Short and Lewis","[""Radiology"",""Surgery"",""Cardiology""]",NH,null,null,null,null,null,null,null,null,null,Poor,null
+P0451,Kelly Ltd,"[""Radiology"",""Internal Medicine""]",MS,null,null,null,null,null,null,null,null,null,Poor,null
+P0452,"Schwartz, Hernandez and Silva","[""Internal Medicine"",""Cardiology"",""Radiology""]",AK,null,null,null,null,null,null,null,null,null,Poor,null
+P0453,"Garner, Martin and Scott","[""Family Practice""]",ID,null,null,null,null,null,null,null,null,null,Poor,null
+P0454,Russell Inc,"[""Pediatrics"",""Cardiology"",""Family Practice""]",WV,null,null,null,null,null,null,null,null,null,Poor,null
+P0455,Jones Inc,"[""Surgery""]",VA,null,null,null,null,null,null,null,null,null,Poor,null
+P0456,Barnes-White,"[""Psychiatry"",""Pathology"",""Dermatology""]",ID,null,null,null,null,null,null,null,null,null,Poor,null
+P0457,Flores-Tucker,"[""Dermatology""]",FL,null,null,null,null,null,null,null,null,null,Poor,null
+P0458,"Harris, Stark and Simmons","[""Psychiatry"",""Internal Medicine"",""Radiology""]",NH,null,null,null,null,null,null,null,null,null,Poor,null
+P0459,"Graham, Ward and Moore","[""Cardiology"",""Surgery"",""Internal Medicine""]",NC,null,null,null,null,null,null,null,null,null,Poor,null
+P0460,Maynard LLC,"[""Dermatology""]",UT,null,null,null,null,null,null,null,null,null,Poor,null
+P0461,Oliver Group,"[""Dermatology""]",MI,null,null,null,null,null,null,null,null,null,Poor,null
+P0462,Davenport-Wilcox,"[""Dermatology"",""Neurology""]",PA,null,null,null,null,null,null,null,null,null,Poor,null
+P0463,Henson-Dennis,"[""Pathology""]",VT,null,null,null,null,null,null,null,null,null,Poor,null
+P0464,Carter LLC,"[""Surgery""]",KS,null,null,null,null,null,null,null,null,null,Poor,null
+P0465,"Keller, Dougherty and Ingram","[""Neurology"",""Gastroenterology""]",AR,null,null,null,null,null,null,null,null,null,Poor,null
+P0466,Smith LLC,"[""Cardiology""]",CA,null,null,null,null,null,null,null,null,null,Poor,null
+P0467,Weaver PLC,"[""Gastroenterology"",""Psychiatry"",""Internal Medicine""]",NV,null,null,null,null,null,null,null,null,null,Poor,null
+P0468,"Hernandez, Lopez and Mills","[""Dermatology""]",IN,null,null,null,null,null,null,null,null,null,Poor,null
+P0469,Chang PLC,"[""Radiology"",""Gastroenterology""]",GA,null,null,null,null,null,null,null,null,null,Poor,null
+P0470,White-Smith,"[""Gastroenterology"",""Oncology"",""Internal Medicine""]",ND,null,null,null,null,null,null,null,null,null,Poor,null
+P0471,"Hood, Reed and Allen","[""Surgery"",""Radiology"",""Internal Medicine""]",MN,null,null,null,null,null,null,null,null,null,Poor,null
+P0472,Olson-Harper,"[""Neurology"",""Dermatology""]",WV,null,null,null,null,null,null,null,null,null,Poor,null
+P0473,Williams PLC,"[""Dermatology""]",MI,null,null,null,null,null,null,null,null,null,Poor,null
+P0474,"Zamora, Romero and Sanders","[""Cardiology"",""Neurology"",""Surgery""]",CT,null,null,null,null,null,null,null,null,null,Poor,null
+P0475,Garza-Skinner,"[""Internal Medicine""]",GA,null,null,null,null,null,null,null,null,null,Poor,null
+P0476,"Higgins, Acosta and Hill","[""Cardiology""]",LA,null,null,null,null,null,null,null,null,null,Poor,null
+P0477,Ferguson Group,"[""Cardiology"",""Gastroenterology"",""Pathology""]",AL,null,null,null,null,null,null,null,null,null,Poor,null
+P0478,Wilson-Hurley,"[""Surgery"",""Oncology""]",MA,null,null,null,null,null,null,null,null,null,Poor,null
+P0479,Crosby Group,"[""Radiology"",""Family Practice"",""Cardiology""]",ND,null,null,null,null,null,null,null,null,null,Poor,null
+P0480,"Frazier, Massey and Sherman","[""Pediatrics""]",TX,null,null,null,null,null,null,null,null,null,Poor,null
+P0481,Garcia-Martinez,"[""Dermatology"",""Psychiatry""]",SC,null,null,null,null,null,null,null,null,null,Poor,null
+P0482,Richardson-Oneill,"[""Internal Medicine"",""Cardiology""]",MD,null,null,null,null,null,null,null,null,null,Poor,null
+P0483,Evans PLC,"[""Gastroenterology""]",NV,null,null,null,null,null,null,null,null,null,Poor,null
+P0484,Marshall and Sons,"[""Radiology""]",MS,null,null,null,null,null,null,null,null,null,Poor,null
+P0485,Sims Group,"[""Pediatrics"",""Oncology""]",ME,null,null,null,null,null,null,null,null,null,Poor,null
+P0486,"Kennedy, Williams and Salazar","[""Dermatology"",""Pathology"",""Surgery""]",LA,null,null,null,null,null,null,null,null,null,Poor,null
+P0487,Snyder-Weber,"[""Neurology"",""Dermatology"",""Psychiatry""]",LA,null,null,null,null,null,null,null,null,null,Poor,null
+P0488,Clayton PLC,"[""Oncology"",""Radiology"",""Gastroenterology""]",MS,null,null,null,null,null,null,null,null,null,Poor,null
+P0489,Potter-Cunningham,"[""Neurology""]",WV,null,null,null,null,null,null,null,null,null,Poor,null
+P0490,Harris PLC,"[""Psychiatry"",""Pediatrics""]",WV,null,null,null,null,null,null,null,null,null,Poor,null
+P0491,Mcdaniel-Miller,"[""Psychiatry"",""Neurology"",""Cardiology""]",SC,null,null,null,null,null,null,null,null,null,Poor,null
+P0492,Garcia-Flores,"[""Surgery""]",IL,null,null,null,null,null,null,null,null,null,Poor,null
+P0493,"Davis, Reese and Carter","[""Internal Medicine"",""Radiology"",""Gastroenterology""]",MA,null,null,null,null,null,null,null,null,null,Poor,null
+P0494,Watson Ltd,"[""Radiology"",""Dermatology"",""Family Practice""]",TX,null,null,null,null,null,null,null,null,null,Poor,null
+P0495,Wilson Ltd,"[""Radiology""]",FL,null,null,null,null,null,null,null,null,null,Poor,null
+P0496,Parker-Johnson,"[""Psychiatry"",""Pathology"",""Internal Medicine""]",DC,null,null,null,null,null,null,null,null,null,Poor,null
+P0497,Mcdaniel LLC,"[""Oncology"",""Gastroenterology""]",MS,null,null,null,null,null,null,null,null,null,Poor,null
+P0498,"White, Benson and Rogers","[""Oncology"",""Gastroenterology""]",MD,null,null,null,null,null,null,null,null,null,Poor,null
+P0499,"Hernandez, Sanchez and Gonzalez","[""Pathology""]",WV,null,null,null,null,null,null,null,null,null,Poor,null
+P0500,Rodriguez and Sons,"[""Pediatrics""]",VA,null,null,null,null,null,null,null,null,null,Poor,null

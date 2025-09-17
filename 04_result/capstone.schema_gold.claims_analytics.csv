@@ -1,0 +1,411 @@
+ClaimID,MemberID,ProviderID,ProviderName,MemberName,Region,PlanType,claim_year,claim_month,ClaimDate,ServiceDate,days_to_service,Amount,Status,ClaimType,SubmissionChannel,icd10_primary,cpt_primary,diagnosis_count,procedure_count
+CL000462,M00330,P0097,Powell-Young,Courtney Hayes,South,HMO,2024,3,2024-03-04,2024-03-03,1,1866.29,Pending,Inpatient,EDI,A63.7,18865,2,2
+CL000165,M00113,P0030,"Le, Case and Davis",James Andrews,North,HMO,2024,4,2024-04-27,null,null,274.59,Approved,null,null,A14.5,11194,2,1
+CL000179,M00268,P0076,Griffith-Levine,Janice Lloyd,Central,EPO,2024,5,2024-05-01,2024-04-22,9,594.1,Rejected,Dental,Fax,A31.5,31100,3,1
+CL000420,M00462,P0009,Silva-Jones,Stephen Jackson,South,HMO,2024,4,2024-04-20,null,null,2199.11,Rejected,null,null,A40.0,20977,3,2
+CL000171,M00348,P0052,Harper Group,Andre Green,South,EPO,2024,3,2024-03-15,2024-03-15,0,514.85,Approved,Inpatient,EDI,A77.1,68287,3,2
+CL000453,M00157,P0046,White-Hicks,null,null,null,2024,5,2024-05-02,null,null,2614.81,Approved,null,null,A48.4,18312,3,2
+CL000211,M00250,P0002,Hendrix-Ellis,Brian Mcgrath,Metro,Medicare,2024,4,2024-04-12,null,null,2372.04,Pending,null,null,A54.7,52640,1,2
+CL000438,M00477,P0111,Marshall PLC,Michael Pope,East,HMO,2024,3,2024-03-07,2024-02-27,9,303.26,Approved,Pharmacy,EDI,A49.9,68668,2,2
+CL000097,M00494,P0054,"Rogers, Reed and Williams",null,null,null,2024,5,2024-05-02,2024-04-26,6,2509.68,Rejected,Pharmacy,Fax,A21.2,17242,3,1
+CL000255,M00139,P0069,Singleton Ltd,null,null,null,2024,5,2024-05-09,2024-05-08,1,1006.5,Submitted,Outpatient,EDI,A35.4,69533,2,1
+CL000353,M00173,P0084,Watson-Brown,Andrew Walls,East,EPO,2024,4,2024-04-10,null,null,721.21,Pending,null,null,A44.9,55095,1,2
+CL000191,M00275,P0090,Harmon and Sons,null,null,null,2024,5,2024-05-04,2024-04-29,5,2527.88,Pending,Pharmacy,API,A50.2,38743,1,2
+CL000154,M00156,P0081,"Rios, Carr and Rivera",null,null,null,2024,3,2024-03-30,2024-03-29,1,2130.88,Approved,Dental,EDI,A86.6,12869,3,1
+CL000098,M00421,P0118,"Edwards, Jackson and Jones",null,null,null,2024,4,2024-04-30,2024-04-21,9,268.79,Pending,Outpatient,Portal,A96.9,50978,3,2
+CL000169,M00133,P0046,White-Hicks,null,null,null,2024,4,2024-04-03,null,null,1486.36,Submitted,null,null,A33.7,22858,1,2
+CL000356,M00454,P0041,Benjamin PLC,null,null,null,2024,5,2024-05-23,2024-05-13,10,899.58,Submitted,Pharmacy,EDI,null,16883,-1,1
+CL000172,M00280,P0028,Weiss-Adkins,Deborah Clark,South,Medicare,2024,3,2024-03-11,2024-03-06,5,1879.78,Submitted,Outpatient,Portal,A44.2,36702,1,2
+CL000315,M00083,P0041,Benjamin PLC,Scott Petty,South,Medicare,2024,4,2024-04-18,2024-04-15,3,3618.01,Submitted,Inpatient,API,A51.5,28029,3,2
+CL000424,M00143,P0092,Taylor PLC,Jordan Morales,West,HMO,2024,5,2024-05-19,null,null,3111.84,Submitted,null,null,A14.0,10860,1,2
+CL000107,M00344,P0055,Steele-Reese,Daniel Bray,North,EPO,2024,3,2024-03-15,2024-03-06,9,2198.08,Rejected,Pharmacy,EDI,A40.1,29839,1,2
+CL000033,M00058,P0118,"Edwards, Jackson and Jones",null,null,null,2024,3,2024-03-30,2024-03-29,1,1109.52,Approved,Inpatient,Fax,A64.4,55902,1,2
+CL000148,M00156,P0064,Chan-Osborne,null,null,null,2024,3,2024-03-09,2024-03-06,3,3950.45,Rejected,Inpatient,API,A97.2,67106,3,1
+CL000262,M00483,P0019,Lawson Ltd,Charles Ortega,South,HMO,2024,3,2024-03-07,2024-02-28,8,2002.13,Pending,Dental,API,A10.8,47347,3,1
+CL000115,M00323,P0081,"Rios, Carr and Rivera",null,null,null,2024,5,2024-05-14,2024-05-14,0,1604.82,Approved,Inpatient,Fax,null,37468,-1,2
+CL000002,M00037,P0109,"Reynolds, Hoffman and Woodard",Timothy Strickland,Metro,Medicaid,2024,3,2024-03-04,2024-02-25,8,369.91,Submitted,Outpatient,API,A79.9,11577,3,1
+CL000094,M00006,P0041,Benjamin PLC,David Summers,South,HMO,2024,4,2024-04-22,2024-04-16,6,3160.79,Approved,Inpatient,API,A31.2,56438,3,2
+CL000089,M00230,P0034,Palmer Ltd,Shawn Nunez,West,EPO,2024,5,2024-05-05,2024-04-28,7,1229.93,Approved,Inpatient,EDI,A95.9,14817,3,1
+CL000265,M00439,P0020,Pearson-Hopkins,null,null,null,2024,4,2024-04-01,2024-04-01,0,1988.28,Submitted,Pharmacy,Portal,A20.2,null,2,-1
+CL000011,M00083,P0064,Chan-Osborne,Scott Petty,South,Medicare,2024,3,2024-03-21,2024-03-21,0,1481.51,Approved,Outpatient,Portal,A97.3,31414,2,2
+CL000047,M00136,P0091,"Hunt, Fletcher and Hendricks",Robert Wilkerson,East,Medicare,2024,5,2024-05-25,2024-05-16,9,1962.78,Rejected,Pharmacy,Portal,A48.0,null,1,-1
+CL000351,M00148,P0099,Dickerson LLC,null,null,null,2024,3,2024-03-06,2024-02-26,9,817.21,Approved,Inpatient,EDI,A98.4,27614,3,2
+CL000421,M00371,P0006,"Gilbert, Robertson and Gross",null,null,null,2024,4,2024-04-13,2024-04-07,6,3171.34,Approved,Outpatient,Portal,A27.3,26234,2,1
+CL000451,M00138,P0074,Davis-Rogers,Adam Heath,South,Medicaid,2024,5,2024-05-17,2024-05-11,6,551.47,Pending,Pharmacy,Portal,A33.1,56164,2,1
+CL000162,M00038,P0086,"Martinez, Guerrero and Lowe",Jonathan Mcintosh,Metro,Medicare,2024,3,2024-03-31,2024-03-25,6,2687.8,Submitted,Outpatient,Portal,A92.5,40653,1,1
+CL000194,M00029,P0073,Johnson PLC,Heather Sanders,North,Medicaid,2024,4,2024-04-20,2024-04-19,1,550.48,Submitted,Outpatient,Portal,A83.4,25981,3,1
+CL000292,M00205,P0042,"Williams, Peters and Lang",null,null,null,2024,3,2024-03-30,2024-03-26,4,2600.85,Pending,Dental,Portal,A66.9,64131,3,1
+CL000291,M00274,P0057,"Lee, Ward and Gray",Daniel Wagner,Central,EPO,2024,4,2024-04-04,null,null,187.87,Approved,null,null,A23.9,43953,1,2
+CL000066,M00046,P0005,"Lynch, Page and Castro",Jose Campbell,East,EPO,2024,5,2024-05-15,2024-05-12,3,1515.01,Pending,Dental,API,A80.5,45365,1,1
+CL000190,M00289,P0100,Gregory-Rodriguez,null,null,null,2024,5,2024-05-27,2024-05-22,5,3720.34,Approved,Inpatient,API,A95.2,56484,3,1
+CL000456,M00176,P0102,Huber LLC,null,null,null,2024,3,2024-03-11,2024-03-03,8,170.47,Rejected,Inpatient,EDI,A56.1,23861,2,1
+CL000216,M00488,P0048,James-Williams,Troy Carter,West,EPO,2024,5,2024-05-01,2024-04-21,10,1218.27,Rejected,Dental,Fax,A13.3,46364,3,2
+CL000018,M00495,P0113,Bennett-Rodgers,Kimberly Gonzalez,North,HMO,2024,4,2024-04-09,2024-04-06,3,34.24,Pending,Inpatient,EDI,A74.3,27312,2,1
+CL000114,M00377,P0008,Collins PLC,Valerie Parsons,North,HMO,2024,3,2024-03-24,2024-03-17,7,604.5,Approved,Outpatient,Fax,A41.2,31922,2,2
+CL000279,M00346,P0104,"Burns, Padilla and Aguilar",Kevin Miller,East,Medicaid,2024,5,2024-05-21,null,null,270.04,Submitted,null,null,A53.5,15758,2,1
+CL000405,M00442,P0109,"Reynolds, Hoffman and Woodard",Brian Steele,Central,Medicaid,2024,3,2024-03-28,2024-03-27,1,1016.36,Pending,Inpatient,Portal,A49.0,48481,2,2
+CL000024,M00434,P0032,"Beard, Colon and Peters",null,null,null,2024,4,2024-04-21,null,null,3775.07,Pending,null,null,A41.5,30697,3,2
+CL000286,M00215,P0066,Howe PLC,Ronald Brooks,East,HMO,2024,4,2024-04-17,null,null,3617.24,Approved,null,null,A69.1,57770,1,2
+CL000388,M00274,P0020,Pearson-Hopkins,Daniel Wagner,Central,EPO,2024,4,2024-04-28,null,null,3685.32,Rejected,null,null,A88.6,39507,1,1
+CL000215,M00221,P0086,"Martinez, Guerrero and Lowe",Hannah Hopkins,Central,Medicaid,2024,5,2024-05-16,2024-05-14,2,1193.83,Submitted,Inpatient,Fax,A67.5,29206,3,2
+CL000423,M00093,P0002,Hendrix-Ellis,null,null,null,2024,5,2024-05-13,2024-05-10,3,3627.46,Approved,Dental,Portal,A44.9,54225,1,2
+CL000175,M00233,P0006,"Gilbert, Robertson and Gross",null,null,null,2024,4,2024-04-09,2024-04-05,4,3075.06,Pending,Pharmacy,Portal,A80.4,28487,2,2
+CL000178,M00348,P0071,"Dixon, Reyes and Lester",Andre Green,South,EPO,2024,4,2024-04-27,null,null,1581.94,Rejected,null,null,A89.7,21068,1,2
+CL000188,M00472,P0044,"Hoffman, Horn and Donaldson",null,null,null,2024,4,2024-04-10,null,null,1665.54,Submitted,null,null,A20.8,60111,1,2
+CL000163,M00437,P0062,Cooper-Hayes,Nicole Mcknight,North,Medicaid,2024,4,2024-04-23,2024-04-18,5,3125.63,Rejected,Outpatient,Portal,A68.1,18719,1,2
+CL000445,M00419,P0010,"Webb, Moore and Young",Brian Garcia,North,Medicaid,2024,5,2024-05-05,2024-04-26,9,493.87,Rejected,Pharmacy,EDI,A32.3,56339,1,1
+CL000134,M00059,P0030,"Le, Case and Davis",Natalie Thompson,West,Medicare,2024,3,2024-03-24,2024-03-21,3,475.72,Rejected,Dental,EDI,A77.4,46308,1,1
+CL000126,M00380,P0046,White-Hicks,Thomas Meyer,Metro,HMO,2024,5,2024-05-01,null,null,1777.35,Approved,null,null,A79.5,50183,2,1
+CL000059,M00299,P0096,Stewart Ltd,Richard Hines,West,EPO,2024,4,2024-04-27,2024-04-21,6,2294.4,Approved,Inpatient,API,A85.8,57928,3,2
+CL000290,M00168,P0018,"Johnson, Flores and Sampson",Paula Harris,East,EPO,2024,4,2024-04-21,null,null,2098.11,Approved,null,null,A17.6,49465,2,2
+CL000459,M00038,P0035,Richards-Johnson,Jonathan Mcintosh,Metro,Medicare,2024,3,2024-03-03,2024-02-22,10,1064.39,Approved,Outpatient,Portal,A68.0,69993,1,2
+CL000006,M00338,P0057,"Lee, Ward and Gray",Hannah Duncan,East,Medicare,2024,4,2024-04-18,null,null,490.36,Rejected,null,null,A42.8,31716,3,1
+CL000185,M00170,P0098,"Richardson, James and Miller",Michael Arnold,North,HMO,2024,3,2024-03-11,2024-03-04,7,2473.03,Submitted,Outpatient,Fax,A42.4,24525,3,1
+CL000252,M00051,P0052,Harper Group,null,null,null,2024,5,2024-05-24,2024-05-23,1,1746.02,Submitted,Dental,EDI,A70.4,64138,3,1
+CL000446,M00105,P0057,"Lee, Ward and Gray",Katie Williams,West,EPO,2024,5,2024-05-17,2024-05-13,4,51.84,Submitted,Outpatient,API,A49.1,50130,1,2
+CL000104,M00294,P0064,Chan-Osborne,John Francis,Metro,Medicare,2024,5,2024-05-17,2024-05-15,2,1086.6,Submitted,Inpatient,Fax,A40.8,48968,2,2
+CL000147,M00238,P0060,"Arellano, Willis and Hernandez",null,null,null,2024,4,2024-04-29,2024-04-28,1,2209.83,Rejected,Outpatient,EDI,A12.4,27606,2,2
+CL000379,M00182,P0115,Alvarado and Sons,null,null,null,2024,4,2024-04-28,2024-04-18,10,3620.06,Pending,Inpatient,EDI,A26.8,49882,3,1
+CL000208,M00003,P0095,Jackson Group,Thomas Bentley,Central,EPO,2024,4,2024-04-01,2024-03-26,6,2362.08,Pending,Inpatient,API,A93.9,27026,3,2
+CL000380,M00451,P0033,Goodman Group,Carrie Butler,Central,Medicaid,2024,4,2024-04-25,2024-04-23,2,2670.95,Pending,Pharmacy,Fax,A46.9,39217,3,2
+CL000372,M00415,P0033,Goodman Group,Matthew Mccormick,South,EPO,2024,3,2024-03-11,2024-03-04,7,417.38,Pending,Dental,Fax,A37.1,23480,2,2
+CL000330,M00254,P0078,Smith-Roberts,Dennis Jones,Metro,Medicare,2024,4,2024-04-24,null,null,585.37,Approved,null,null,A21.3,46682,2,2
+CL000155,M00093,P0028,Weiss-Adkins,null,null,null,2024,5,2024-05-11,null,null,2490.55,Pending,null,null,A93.6,12538,2,1
+CL000280,M00148,P0022,"Velez, Gray and Brown",null,null,null,2024,3,2024-03-27,2024-03-26,1,1443.62,Submitted,Pharmacy,EDI,A95.4,21425,1,2
+CL000455,M00127,P0049,"Gordon, Fleming and Myers",Nathan Garcia,East,Medicare,2024,4,2024-04-19,2024-04-09,10,3092.64,Approved,Inpatient,Fax,A98.0,48446,2,1
+CL000186,M00084,P0057,"Lee, Ward and Gray",Frederick Clay,Metro,Medicaid,2024,5,2024-05-13,null,null,688.22,Pending,null,null,A22.8,56571,1,1
+CL000391,M00380,P0091,"Hunt, Fletcher and Hendricks",Thomas Meyer,Metro,HMO,2024,4,2024-04-19,null,null,3099.46,Rejected,null,null,A19.0,23898,3,1
+CL000016,M00022,P0018,"Johnson, Flores and Sampson",Matthew Hernandez,South,Medicaid,2024,5,2024-05-28,2024-05-18,10,2797.12,Submitted,Inpatient,Portal,A56.3,17338,3,1
+CL000232,M00109,P0075,Mckinney-Marshall,null,null,null,2024,3,2024-03-07,2024-03-04,3,2949.96,Submitted,Inpatient,EDI,A33.6,19956,2,1
+CL000349,M00160,P0117,Smith Ltd,Cynthia Jones,North,Medicare,2024,3,2024-03-07,2024-02-27,9,1550.39,Rejected,Pharmacy,API,A44.4,22933,1,2
+CL000090,M00075,P0100,Gregory-Rodriguez,null,null,null,2024,5,2024-05-05,2024-04-29,6,551.9,Pending,Outpatient,EDI,A40.1,47346,1,2
+CL000308,M00244,P0028,Weiss-Adkins,null,null,null,2024,4,2024-04-14,null,null,1615.05,Rejected,null,null,A63.9,43301,2,1
+CL000083,M00265,P0003,Walker Ltd,null,null,null,2024,3,2024-03-27,2024-03-19,8,2769.57,Submitted,Outpatient,Fax,A92.1,33310,2,1
+CL000125,M00076,P0004,"Petersen, Hood and Smith",Gina Sims,East,Medicaid,2024,5,2024-05-21,2024-05-11,10,1100.46,Pending,Inpatient,API,A65.6,42663,1,1
+CL000244,M00070,P0071,"Dixon, Reyes and Lester",null,null,null,2024,4,2024-04-23,2024-04-14,9,196.52,Submitted,Inpatient,EDI,null,11682,-1,1
+CL000095,M00269,P0038,Wilson-Johnson,null,null,null,2024,5,2024-05-05,2024-04-30,5,3181.81,Submitted,Outpatient,API,A65.2,43786,3,2
+CL000430,M00075,P0038,Wilson-Johnson,null,null,null,2024,4,2024-04-17,2024-04-15,2,2115.98,Approved,Pharmacy,Fax,A49.9,18935,3,2
+CL000407,M00500,P0042,"Williams, Peters and Lang",Steven Parker,Metro,EPO,2024,4,2024-04-21,null,null,41.36,Submitted,null,null,A89.4,33923,3,2
+CL000320,M00046,P0044,"Hoffman, Horn and Donaldson",Jose Campbell,East,EPO,2024,4,2024-04-08,null,null,2609.64,Approved,null,null,A34.7,51538,1,1
+CL000091,M00071,P0102,Huber LLC,Rebecca Adams,South,Medicare,2024,4,2024-04-04,2024-03-30,5,3718.51,Submitted,Inpatient,API,A49.5,62822,1,1
+CL000381,M00039,P0092,Taylor PLC,null,null,null,2024,5,2024-05-11,2024-05-09,2,3520.87,Rejected,Outpatient,EDI,A70.5,65354,2,1
+CL000044,M00259,P0061,Ali LLC,Christopher Johnson,Central,Medicaid,2024,3,2024-03-17,2024-03-12,5,472.5,Submitted,Outpatient,Fax,A40.9,21136,1,1
+CL000489,M00499,P0047,Hernandez and Sons,Tracy Graham,East,Medicaid,2024,3,2024-03-11,2024-03-08,3,1896.22,Rejected,Dental,EDI,A88.0,69623,3,1
+CL000036,M00415,P0103,"Valentine, Ochoa and Kerr",Matthew Mccormick,South,EPO,2024,5,2024-05-21,2024-05-18,3,2261.35,Approved,Outpatient,API,A55.6,59800,1,2
+CL000041,M00365,P0042,"Williams, Peters and Lang",null,null,null,2024,4,2024-04-03,null,null,1398.49,Pending,null,null,A30.3,55958,2,1
+CL000118,M00090,P0034,Palmer Ltd,Shelby Mclean,West,Medicare,2024,3,2024-03-31,2024-03-31,0,357.42,Submitted,Pharmacy,Fax,A70.5,null,1,-1
+CL000452,M00435,P0043,"Medina, Mays and Yates",Maria Reyes,Central,HMO,2024,5,2024-05-15,null,null,909.74,Pending,null,null,A48.2,26020,1,2
+CL000289,M00184,P0026,"Smith, Foster and Perkins",Matthew Hurst,East,HMO,2024,5,2024-05-02,2024-04-27,5,3689.77,Rejected,Dental,Fax,A37.2,56835,3,2
+CL000263,M00047,P0070,Mccoy-Benitez,John Johnson,South,Medicare,2024,4,2024-04-04,2024-03-29,6,2881.36,Approved,Pharmacy,Fax,A21.2,14461,2,1
+CL000342,M00281,P0064,Chan-Osborne,Alexis Thomas DVM,East,HMO,2024,4,2024-04-05,2024-04-02,3,3485.36,Rejected,Outpatient,API,A45.0,13717,3,2
+CL000220,M00387,P0036,"Mcconnell, Schmidt and Hansen",Stephanie Velasquez,North,Medicare,2024,3,2024-03-07,2024-03-03,4,3343.66,Rejected,Pharmacy,API,A41.4,22441,1,2
+CL000393,M00079,P0082,"Stokes, Cunningham and Bray",Dennis Sanders,North,EPO,2024,4,2024-04-13,null,null,3819.95,Pending,null,null,A28.3,10036,3,1
+CL000235,M00394,P0063,Ferguson-Christensen,Lisa Rogers,West,Medicaid,2024,3,2024-03-05,2024-03-02,3,1673.11,Rejected,Dental,EDI,A38.4,68031,1,1
+CL000023,M00477,P0072,Miller-Cook,Michael Pope,East,HMO,2024,5,2024-05-21,2024-05-12,9,1073.93,Approved,Pharmacy,Portal,A23.1,50363,2,1
+CL000374,M00311,P0096,Stewart Ltd,null,null,null,2024,4,2024-04-28,2024-04-28,0,1945.41,Submitted,Pharmacy,EDI,A28.3,21375,2,2
+CL000288,M00178,P0118,"Edwards, Jackson and Jones",null,null,null,2024,4,2024-04-03,null,null,3977.37,Rejected,null,null,A24.3,50376,1,2
+CL000366,M00087,P0061,Ali LLC,James Bennett,East,EPO,2024,4,2024-04-28,2024-04-21,7,1622.95,Submitted,Pharmacy,Portal,A51.2,27768,3,1
+CL000037,M00261,P0029,Taylor LLC,Laura Delgado,East,Medicaid,2024,5,2024-05-01,2024-04-28,3,3484.76,Pending,Inpatient,API,A77.0,23918,2,2
+CL000238,M00448,P0002,Hendrix-Ellis,Kimberly Weber,West,Medicaid,2024,3,2024-03-04,2024-02-28,5,3950.47,Submitted,Pharmacy,API,A52.2,33451,3,1
+CL000102,M00341,P0069,Singleton Ltd,Melissa Bradley,West,Medicare,2024,4,2024-04-27,2024-04-22,5,953.9,Pending,Inpatient,API,A17.0,54716,2,2
+CL000201,M00236,P0099,Dickerson LLC,null,null,null,2024,5,2024-05-21,null,null,2307.15,Pending,null,null,A67.4,48870,2,2
+CL000158,M00295,P0067,Golden-Robinson,null,null,null,2024,4,2024-04-18,null,null,2123.06,Pending,null,null,A55.6,46220,3,2
+CL000305,M00397,P0101,Lopez Inc,null,null,null,2024,5,2024-05-05,2024-05-05,0,320.02,Rejected,Pharmacy,Fax,A37.9,63388,1,1
+CL000358,M00095,P0075,Mckinney-Marshall,null,null,null,2024,3,2024-03-06,2024-03-05,1,1308.5,Submitted,Inpatient,EDI,A44.5,38700,3,2
+CL000401,M00171,P0089,Price-Collins,Paul Thomas,Metro,Medicaid,2024,4,2024-04-07,null,null,747.68,Pending,null,null,A32.2,34100,2,1
+CL000276,M00318,P0056,"Eaton, Stephens and Mitchell",null,null,null,2024,5,2024-05-06,2024-04-28,8,1737.32,Pending,Pharmacy,API,A96.5,36838,3,1
+CL000187,M00315,P0004,"Petersen, Hood and Smith",null,null,null,2024,3,2024-03-10,2024-03-07,3,619.75,Rejected,Inpatient,Fax,A56.7,15628,3,2
+CL000035,M00311,P0112,"Cunningham, Robinson and Hughes",null,null,null,2024,4,2024-04-14,2024-04-07,7,2082.47,Pending,Pharmacy,Fax,A76.3,37312,1,1
+CL000239,M00489,P0100,Gregory-Rodriguez,Michael Miller,South,Medicaid,2024,4,2024-04-19,2024-04-15,4,3264.76,Approved,Outpatient,Fax,A11.4,49797,1,1
+CL000116,M00148,P0017,Davis-Molina,null,null,null,2024,4,2024-04-21,2024-04-17,4,3382.12,Pending,Dental,EDI,A26.4,53192,3,1
+CL000413,M00234,P0107,Nichols-Hill,null,null,null,2024,3,2024-03-26,2024-03-23,3,2987.07,Approved,Pharmacy,API,A60.0,40244,2,2
+CL000127,M00169,P0096,Stewart Ltd,null,null,null,2024,4,2024-04-16,2024-04-14,2,3333.15,Submitted,Inpatient,Portal,A22.8,12352,2,2
+CL000156,M00494,P0098,"Richardson, James and Miller",null,null,null,2024,4,2024-04-13,2024-04-08,5,2551.78,Rejected,Outpatient,EDI,A61.5,43012,3,2
+CL000357,M00174,P0092,Taylor PLC,Natalie Norman,East,Medicare,2024,4,2024-04-23,2024-04-18,5,816.38,Rejected,Pharmacy,Portal,A18.3,27368,3,1
+CL000230,M00128,P0101,Lopez Inc,Amy Brock,Central,HMO,2024,3,2024-03-14,2024-03-11,3,2103.79,Submitted,Inpatient,Fax,A99.7,47315,3,1
+CL000068,M00081,P0008,Collins PLC,null,null,null,2024,3,2024-03-29,2024-03-22,7,3313.16,Rejected,Outpatient,EDI,A49.0,null,3,-1
+CL000275,M00329,P0113,Bennett-Rodgers,Brian Mclean,East,HMO,2024,3,2024-03-02,2024-02-21,10,139.47,Rejected,Inpatient,Fax,A13.7,62183,3,2
+CL000043,M00450,P0051,Li Inc,David Cole,South,HMO,2024,5,2024-05-13,null,null,245.1,Approved,null,null,A65.9,15831,2,1
+CL000003,M00179,P0063,Ferguson-Christensen,Jason Nelson,South,EPO,2024,3,2024-03-13,2024-03-06,7,3306.6,Pending,Inpatient,API,A43.9,51715,3,1
+CL000256,M00500,P0108,"Oconnor, Morrow and Cline",Steven Parker,Metro,EPO,2024,3,2024-03-16,2024-03-10,6,81.39,Pending,Outpatient,Portal,A86.6,44019,3,2
+CL000049,M00459,P0077,Pacheco-Thomas,Christopher Walls,Central,EPO,2024,5,2024-05-11,2024-05-09,2,914.27,Approved,Inpatient,Portal,A60.8,64670,3,2
+CL000271,M00261,P0091,"Hunt, Fletcher and Hendricks",Laura Delgado,East,Medicaid,2024,5,2024-05-14,2024-05-05,9,3622.66,Pending,Dental,Fax,A11.0,33209,3,2
+CL000464,M00061,P0094,Rose-Gaines,Michael Jones,West,Medicaid,2024,3,2024-03-27,2024-03-20,7,2903.14,Rejected,Dental,Portal,A84.8,47849,3,2
+CL000180,M00031,P0030,"Le, Case and Davis",null,null,null,2024,5,2024-05-12,2024-05-06,6,3678.94,Approved,Dental,EDI,null,null,-1,-1
+CL000283,M00125,P0088,Anderson-Stanley,Tim Hughes,South,Medicare,2024,4,2024-04-10,null,null,2466.52,Pending,null,null,A28.9,69627,2,2
+CL000042,M00305,P0093,Smith Group,Dan Wilson,South,EPO,2024,5,2024-05-10,null,null,1951.72,Approved,null,null,A54.1,23259,3,1
+CL000222,M00180,P0066,Howe PLC,Thomas Salas,South,HMO,2024,4,2024-04-19,null,null,3539.01,Pending,null,null,A76.6,18221,1,2
+CL000166,M00234,P0099,Dickerson LLC,null,null,null,2024,5,2024-05-02,null,null,1958.21,Submitted,null,null,A28.4,32640,2,2
+CL000285,M00203,P0066,Howe PLC,Matthew White,South,Medicaid,2024,4,2024-04-23,2024-04-13,10,1238.82,Pending,Dental,EDI,A42.4,40423,3,2
+CL000364,M00278,P0001,Miller LLC,Tony Maldonado,West,Medicare,2024,4,2024-04-17,null,null,460.6,Approved,null,null,A43.5,50265,3,2
+CL000419,M00045,P0037,Glover Inc,null,null,null,2024,5,2024-05-14,null,null,2135.12,Pending,null,null,A93.3,51310,2,2
+CL000159,M00155,P0087,Gillespie-Bradley,Laura Sanchez,East,EPO,2024,3,2024-03-26,2024-03-18,8,3156.38,Approved,Inpatient,Portal,A50.9,63880,3,1
+CL000123,M00290,P0002,Hendrix-Ellis,Nicholas Walsh,Central,Medicare,2024,3,2024-03-20,2024-03-20,0,1165.09,Pending,Inpatient,EDI,A40.3,39119,1,2
+CL000309,M00266,P0022,"Velez, Gray and Brown",null,null,null,2024,4,2024-04-24,2024-04-22,2,3592.6,Approved,Dental,Fax,A63.1,null,1,-1
+CL000345,M00075,P0043,"Medina, Mays and Yates",null,null,null,2024,5,2024-05-03,null,null,3233.84,Submitted,null,null,A51.1,45049,3,1
+CL000261,M00125,P0052,Harper Group,Tim Hughes,South,Medicare,2024,5,2024-05-18,null,null,2531.02,Pending,null,null,A83.2,15584,2,1
+CL000337,M00036,P0110,"Madden, Taylor and Rodriguez",Leslie Mckenzie,East,Medicaid,2024,5,2024-05-24,2024-05-19,5,370.23,Pending,Dental,EDI,A16.0,20746,3,2
+CL000395,M00332,P0041,Benjamin PLC,Robert Richard,West,HMO,2024,5,2024-05-03,2024-04-30,3,2605.44,Approved,Pharmacy,Fax,A70.3,55558,1,1
+CL000133,M00171,P0008,Collins PLC,Paul Thomas,Metro,Medicaid,2024,3,2024-03-11,2024-03-07,4,392.84,Submitted,Inpatient,EDI,A26.5,49660,2,1
+CL000138,M00137,P0071,"Dixon, Reyes and Lester",Madeline Wolfe,Metro,Medicare,2024,3,2024-03-02,2024-02-21,10,2821.54,Pending,Dental,EDI,A75.8,null,2,-1
+CL000117,M00131,P0104,"Burns, Padilla and Aguilar",Joshua Baker,North,Medicaid,2024,4,2024-04-22,null,null,323.33,Approved,null,null,A13.2,29130,2,2
+CL000300,M00476,P0069,Singleton Ltd,Andrew Griffin,East,HMO,2024,4,2024-04-29,null,null,2569.53,Rejected,null,null,A27.2,28134,3,1
+CL000329,M00189,P0106,Russell LLC,Steven Dodson,West,HMO,2024,4,2024-04-27,null,null,2124.7,Approved,null,null,A35.7,48961,3,2
+CL000167,M00222,P0026,"Smith, Foster and Perkins",Laura Vasquez,Central,Medicaid,2024,5,2024-05-04,2024-04-24,10,583.44,Pending,Pharmacy,Portal,A91.0,54462,2,2
+CL000077,M00004,P0088,Anderson-Stanley,Danny Gomez,Metro,Medicare,2024,3,2024-03-17,2024-03-12,5,2651.25,Rejected,Pharmacy,Portal,A42.0,null,2,-1
+CL000304,M00419,P0091,"Hunt, Fletcher and Hendricks",Brian Garcia,North,Medicaid,2024,4,2024-04-28,2024-04-26,2,1715.77,Approved,Dental,EDI,A95.9,37586,2,1
+CL000312,M00085,P0076,Griffith-Levine,Brandon Black,Central,EPO,2024,3,2024-03-25,2024-03-18,7,878.38,Rejected,Pharmacy,EDI,A61.7,37884,2,1
+CL000264,M00260,P0085,Hebert-Bradley,Collin Chambers,South,EPO,2024,3,2024-03-16,2024-03-13,3,2746.42,Submitted,Inpatient,API,A84.0,68668,3,2
+CL000473,M00100,P0084,Watson-Brown,null,null,null,2024,4,2024-04-05,null,null,542.3,Approved,null,null,A67.0,62031,3,2
+CL000197,M00284,P0034,Palmer Ltd,null,null,null,2024,4,2024-04-13,null,null,2083.68,Submitted,null,null,A92.3,39838,2,1
+CL000248,M00059,P0020,Pearson-Hopkins,Natalie Thompson,West,Medicare,2024,5,2024-05-05,2024-05-05,0,3156.79,Approved,Inpatient,API,A25.4,25641,2,2
+CL000295,M00362,P0036,"Mcconnell, Schmidt and Hansen",null,null,null,2024,4,2024-04-17,null,null,829.46,Submitted,null,null,A70.6,18484,2,2
+CL000378,M00259,P0022,"Velez, Gray and Brown",Christopher Johnson,Central,Medicaid,2024,3,2024-03-19,2024-03-14,5,2099.0,Submitted,Dental,Portal,A35.4,30612,2,2
+CL000229,M00259,P0069,Singleton Ltd,Christopher Johnson,Central,Medicaid,2024,4,2024-04-08,null,null,3942.69,Submitted,null,null,A15.1,20831,3,1
+CL000029,M00320,P0032,"Beard, Colon and Peters",Joshua Gutierrez,South,Medicaid,2024,4,2024-04-19,null,null,3748.21,Submitted,null,null,A56.0,11776,2,2
+CL000377,M00391,P0047,Hernandez and Sons,Heather Davis,South,HMO,2024,4,2024-04-13,null,null,462.14,Submitted,null,null,A22.5,38863,2,2
+CL000198,M00012,P0027,Figueroa-Owen,Travis Barton,North,Medicaid,2024,5,2024-05-05,null,null,2185.0,Approved,null,null,A96.6,62218,1,2
+CL000226,M00160,P0054,"Rogers, Reed and Williams",Cynthia Jones,North,Medicare,2024,4,2024-04-16,2024-04-16,0,490.53,Pending,Pharmacy,Fax,A41.5,44058,2,1
+CL000058,M00400,P0089,Price-Collins,null,null,null,2024,4,2024-04-26,2024-04-16,10,2185.69,Rejected,Outpatient,API,A21.8,41453,3,1
+CL000081,M00262,P0056,"Eaton, Stephens and Mitchell",Timothy Reyes,Central,HMO,2024,3,2024-03-25,2024-03-25,0,1548.06,Rejected,Dental,EDI,A81.1,30166,1,1
+CL000298,M00480,P0113,Bennett-Rodgers,null,null,null,2024,4,2024-04-29,null,null,2098.04,Rejected,null,null,A48.4,56167,3,2
+CL000334,M00382,P0070,Mccoy-Benitez,Jamie Wolf,West,Medicaid,2024,5,2024-05-04,null,null,1495.83,Submitted,null,null,A78.9,37346,1,2
+CL000385,M00133,P0065,"Higgins, Jennings and Stewart",null,null,null,2024,4,2024-04-24,2024-04-16,8,2905.98,Submitted,Outpatient,EDI,A38.8,50286,1,2
+CL000152,M00329,P0119,"Griffin, Winters and Alexander",Brian Mclean,East,HMO,2024,3,2024-03-28,2024-03-27,1,90.45,Rejected,Dental,API,A35.2,69478,3,2
+CL000416,M00444,P0100,Gregory-Rodriguez,null,null,null,2024,4,2024-04-06,null,null,3287.06,Pending,null,null,A75.0,29758,3,1
+CL000434,M00377,P0083,Roberts and Sons,Valerie Parsons,North,HMO,2024,3,2024-03-21,2024-03-11,10,1161.09,Submitted,Outpatient,API,A76.3,25002,1,1
+CL000204,M00411,P0093,Smith Group,null,null,null,2024,5,2024-05-02,null,null,2984.38,Rejected,null,null,A42.4,42340,2,1
+CL000313,M00069,P0080,Cruz LLC,Steven Perez,South,HMO,2024,5,2024-05-28,2024-05-28,0,336.86,Approved,Outpatient,API,A36.1,21888,2,1
+CL000429,M00335,P0015,"Torres, Keith and Ortiz",null,null,null,2024,5,2024-05-17,null,null,3650.01,Submitted,null,null,A69.0,22810,3,1
+CL000336,M00306,P0045,"Frazier, Randall and Higgins",Stephanie Nunez,Metro,EPO,2024,4,2024-04-06,null,null,1892.16,Pending,null,null,A82.0,26020,3,2
+CL000343,M00043,P0068,Brown and Sons,null,null,null,2024,5,2024-05-30,2024-05-30,0,92.7,Pending,Outpatient,API,A94.4,27750,3,1
+CL000399,M00083,P0068,Brown and Sons,Scott Petty,South,Medicare,2024,3,2024-03-04,2024-02-28,5,993.06,Pending,Inpatient,Portal,A59.7,17065,2,1
+CL000164,M00249,P0005,"Lynch, Page and Castro",Frank Harris,North,HMO,2024,4,2024-04-22,null,null,670.61,Rejected,null,null,A43.7,67697,1,2
+CL000440,M00455,P0016,Snyder-Harrison,null,null,null,2024,4,2024-04-27,null,null,1445.6,Pending,null,null,A27.6,17585,2,2
+CL000260,M00100,P0109,"Reynolds, Hoffman and Woodard",null,null,null,2024,4,2024-04-21,null,null,3993.06,Submitted,null,null,A27.7,59738,3,1
+CL000318,M00417,P0060,"Arellano, Willis and Hernandez",Joan Chase,East,EPO,2024,5,2024-05-19,null,null,1039.49,Submitted,null,null,A55.8,67739,1,1
+CL000093,M00251,P0057,"Lee, Ward and Gray",Jennifer Prince,North,Medicaid,2024,4,2024-04-10,null,null,1171.73,Submitted,null,null,A99.0,26958,3,2
+CL000447,M00120,P0096,Stewart Ltd,Raymond Anderson,West,HMO,2024,5,2024-05-18,null,null,3104.4,Submitted,null,null,A10.4,66977,2,1
+CL000258,M00228,P0108,"Oconnor, Morrow and Cline",Cynthia Lopez,East,Medicare,2024,4,2024-04-19,null,null,2350.66,Submitted,null,null,A13.0,19303,3,1
+CL000344,M00362,P0019,Lawson Ltd,null,null,null,2024,4,2024-04-26,null,null,76.73,Submitted,null,null,A31.2,37024,3,1
+CL000417,M00082,P0008,Collins PLC,null,null,null,2024,4,2024-04-14,2024-04-10,4,3560.22,Approved,Inpatient,EDI,A66.8,null,2,-1
+CL000121,M00327,P0117,Smith Ltd,null,null,null,2024,3,2024-03-20,2024-03-10,10,2875.87,Submitted,Inpatient,Fax,A95.3,null,1,-1
+CL000223,M00474,P0030,"Le, Case and Davis",Ashley Bell,West,EPO,2024,4,2024-04-18,2024-04-15,3,2595.63,Pending,Dental,API,A45.1,20054,3,1
+CL000233,M00290,P0104,"Burns, Padilla and Aguilar",Nicholas Walsh,Central,Medicare,2024,5,2024-05-24,2024-05-20,4,2714.68,Pending,Pharmacy,Fax,A95.6,27455,2,2
+CL000168,M00048,P0107,Nichols-Hill,George Leon,West,Medicare,2024,4,2024-04-11,2024-04-10,1,451.32,Submitted,Dental,Portal,A91.8,25947,3,2
+CL000465,M00036,P0097,Powell-Young,Leslie Mckenzie,East,Medicaid,2024,5,2024-05-17,2024-05-07,10,3470.55,Submitted,Dental,EDI,A21.5,54087,2,2
+CL000195,M00448,P0091,"Hunt, Fletcher and Hendricks",Kimberly Weber,West,Medicaid,2024,4,2024-04-11,null,null,1699.34,Approved,null,null,A19.7,54783,1,1
+CL000476,M00254,P0007,Pena-Larson,Dennis Jones,Metro,Medicare,2024,4,2024-04-24,null,null,2647.25,Approved,null,null,A82.4,36368,2,1
+CL000060,M00345,P0054,"Rogers, Reed and Williams",Taylor Black,North,Medicare,2024,3,2024-03-30,2024-03-26,4,427.86,Approved,Outpatient,EDI,A29.2,23553,2,1
+CL000247,M00381,P0053,"Bryant, Smith and Conway",Arthur Austin,North,Medicaid,2024,5,2024-05-04,2024-05-03,1,3403.58,Submitted,Inpatient,Fax,A53.4,35891,1,2
+CL000183,M00177,P0091,"Hunt, Fletcher and Hendricks",null,null,null,2024,4,2024-04-25,2024-04-20,5,1942.37,Submitted,Outpatient,EDI,A60.5,64757,1,2
+CL000141,M00470,P0042,"Williams, Peters and Lang",null,null,null,2024,4,2024-04-02,2024-03-30,3,1769.13,Pending,Pharmacy,Portal,A26.6,50492,1,2
+CL000004,M00223,P0116,Davies-Evans,null,null,null,2024,3,2024-03-21,2024-03-15,6,389.24,Rejected,Outpatient,API,A26.0,null,1,-1
+CL000020,M00216,P0089,Price-Collins,Justin Haynes,East,Medicaid,2024,5,2024-05-04,2024-04-26,8,3535.17,Rejected,Outpatient,Portal,null,49527,-1,2
+CL000053,M00468,P0073,Johnson PLC,null,null,null,2024,4,2024-04-07,null,null,1090.14,Approved,null,null,A25.9,14147,3,2
+CL000402,M00001,P0011,Lewis Ltd,Alexis Davis,North,Medicaid,2024,4,2024-04-23,2024-04-23,0,554.72,Approved,Outpatient,API,A83.8,22559,2,1
+CL000034,M00385,P0011,Lewis Ltd,null,null,null,2024,4,2024-04-24,2024-04-22,2,3513.56,Approved,Outpatient,Portal,A21.1,63733,2,1
+CL000448,M00464,P0015,"Torres, Keith and Ortiz",Lisa Lam,North,HMO,2024,3,2024-03-18,2024-03-15,3,3870.9,Pending,Pharmacy,API,A68.5,20041,2,1
+CL000069,M00114,P0007,Pena-Larson,Robert Moore,West,Medicaid,2024,4,2024-04-08,null,null,2343.78,Submitted,null,null,A44.8,13911,1,2
+CL000457,M00083,P0082,"Stokes, Cunningham and Bray",Scott Petty,South,Medicare,2024,3,2024-03-29,2024-03-20,9,3390.01,Pending,Pharmacy,Portal,A15.6,35138,1,1
+CL000022,M00479,P0098,"Richardson, James and Miller",Jacob Simmons,Metro,HMO,2024,4,2024-04-27,null,null,159.97,Rejected,null,null,A58.4,58143,2,2
+CL000373,M00124,P0058,Marshall Inc,null,null,null,2024,4,2024-04-23,2024-04-19,4,2006.13,Submitted,Dental,Portal,A71.6,66201,1,2
+CL000348,M00322,P0013,Lopez Group,null,null,null,2024,4,2024-04-27,2024-04-19,8,447.38,Approved,Outpatient,API,A26.1,34736,2,2
+CL000454,M00064,P0072,Miller-Cook,Jesus Martin,Metro,EPO,2024,3,2024-03-27,2024-03-21,6,3291.65,Pending,Dental,EDI,A70.3,11984,3,2
+CL000225,M00412,P0004,"Petersen, Hood and Smith",Taylor Ramirez,North,EPO,2024,4,2024-04-24,2024-04-22,2,1058.8,Rejected,Inpatient,Fax,A75.7,null,1,-1
+CL000370,M00296,P0108,"Oconnor, Morrow and Cline",Dustin Romero,South,HMO,2024,3,2024-03-25,2024-03-23,2,2164.74,Pending,Inpatient,API,A22.0,null,2,-1
+CL000460,M00425,P0115,Alvarado and Sons,Dylan Miller,South,HMO,2024,4,2024-04-27,2024-04-20,7,2269.82,Rejected,Pharmacy,API,A61.5,67160,1,1
+CL000314,M00196,P0045,"Frazier, Randall and Higgins",null,null,null,2024,5,2024-05-13,2024-05-11,2,1378.64,Rejected,Inpatient,EDI,A90.8,47835,1,1
+CL000390,M00172,P0002,Hendrix-Ellis,Catherine Rogers,North,EPO,2024,4,2024-04-17,null,null,2625.74,Approved,null,null,A99.0,22137,1,1
+CL000122,M00283,P0091,"Hunt, Fletcher and Hendricks",Katherine Ferguson,East,EPO,2024,5,2024-05-07,2024-04-27,10,2389.38,Rejected,Pharmacy,Fax,A42.5,21706,3,1
+CL000085,M00194,P0038,Wilson-Johnson,Wendy Moore,North,EPO,2024,3,2024-03-01,2024-02-23,7,2710.79,Approved,Inpatient,Fax,A51.8,63159,3,1
+CL000099,M00135,P0118,"Edwards, Jackson and Jones",Christopher Moody,North,HMO,2024,5,2024-05-20,2024-05-19,1,2731.38,Rejected,Inpatient,API,A73.9,18317,3,2
+CL000480,M00132,P0026,"Smith, Foster and Perkins",Ryan Novak,West,Medicaid,2024,5,2024-05-20,null,null,2392.15,Approved,null,null,A48.1,25909,3,1
+CL000209,M00479,P0116,Davies-Evans,Jacob Simmons,Metro,HMO,2024,3,2024-03-18,2024-03-18,0,2213.11,Rejected,Pharmacy,Portal,A69.6,36370,1,2
+CL000486,M00160,P0050,"Smith, Ellison and Graves",Cynthia Jones,North,Medicare,2024,5,2024-05-03,null,null,821.29,Pending,null,null,A65.8,18125,2,2
+CL000296,M00429,P0046,White-Hicks,John Edwards,Metro,Medicare,2024,3,2024-03-10,2024-03-05,5,2944.94,Rejected,Pharmacy,Portal,A52.0,29882,1,2
+CL000136,M00002,P0059,Young PLC,Michelle Jordan,East,EPO,2024,3,2024-03-09,2024-03-01,8,395.01,Submitted,Dental,API,A42.1,25121,2,1
+CL000412,M00322,P0118,"Edwards, Jackson and Jones",null,null,null,2024,5,2024-05-30,2024-05-24,6,3781.39,Pending,Outpatient,API,A30.4,20724,3,1
+CL000382,M00431,P0044,"Hoffman, Horn and Donaldson",null,null,null,2024,5,2024-05-27,2024-05-27,0,517.21,Rejected,Inpatient,Portal,A55.7,62626,3,2
+CL000028,M00251,P0102,Huber LLC,Jennifer Prince,North,Medicaid,2024,5,2024-05-29,2024-05-20,9,2982.51,Submitted,Inpatient,Portal,A43.0,29133,1,1
+CL000436,M00148,P0080,Cruz LLC,null,null,null,2024,3,2024-03-04,2024-02-27,6,2088.93,Submitted,Inpatient,EDI,A16.8,38577,3,1
+CL000054,M00322,P0042,"Williams, Peters and Lang",null,null,null,2024,4,2024-04-15,2024-04-14,1,1596.56,Submitted,Outpatient,API,A13.5,34858,3,1
+CL000422,M00460,P0024,Scott-Johnson,Alvin Smith,West,Medicare,2024,4,2024-04-19,2024-04-15,4,629.09,Approved,Inpatient,Portal,A60.4,35620,3,1
+CL000231,M00108,P0120,Weber-Cohen,null,null,null,2024,3,2024-03-10,2024-02-29,10,457.41,Approved,Pharmacy,API,A24.5,55894,3,2
+CL000218,M00330,P0036,"Mcconnell, Schmidt and Hansen",Courtney Hayes,South,HMO,2024,4,2024-04-08,2024-04-01,7,2291.01,Approved,Outpatient,EDI,A27.4,67153,2,2
+CL000008,M00427,P0043,"Medina, Mays and Yates",Zachary Gray,West,EPO,2024,5,2024-05-21,null,null,3596.46,Approved,null,null,A17.2,20683,2,2
+CL000323,M00335,P0089,Price-Collins,null,null,null,2024,5,2024-05-19,2024-05-17,2,3547.81,Approved,Inpatient,API,A80.8,39999,2,1
+CL000322,M00051,P0024,Scott-Johnson,null,null,null,2024,4,2024-04-07,2024-04-06,1,2447.4,Approved,Pharmacy,EDI,A61.0,22981,1,2
+CL000301,M00438,P0023,"Brown, Jimenez and Zimmerman",Thomas Acevedo,East,Medicaid,2024,4,2024-04-10,2024-04-10,0,3269.12,Rejected,Pharmacy,API,A73.1,37098,2,1
+CL000426,M00331,P0082,"Stokes, Cunningham and Bray",Daniel Mitchell,South,Medicare,2024,5,2024-05-12,null,null,2604.03,Rejected,null,null,A39.8,65040,2,1
+CL000350,M00383,P0075,Mckinney-Marshall,Miss Julie Jackson,East,HMO,2024,4,2024-04-02,2024-04-01,1,2712.27,Pending,Dental,Portal,A79.7,15791,3,1
+CL000135,M00460,P0044,"Hoffman, Horn and Donaldson",Alvin Smith,West,Medicare,2024,3,2024-03-04,2024-02-23,10,83.81,Rejected,Dental,API,A24.5,26389,2,2
+CL000428,M00417,P0103,"Valentine, Ochoa and Kerr",Joan Chase,East,EPO,2024,3,2024-03-03,2024-02-22,10,3574.53,Approved,Inpatient,Portal,A27.5,64776,1,2
+CL000078,M00119,P0085,Hebert-Bradley,null,null,null,2024,3,2024-03-30,2024-03-30,0,2368.82,Rejected,Inpatient,API,A63.8,18224,1,2
+CL000253,M00340,P0001,Miller LLC,Christina Campbell,West,HMO,2024,5,2024-05-23,2024-05-20,3,1902.92,Approved,Pharmacy,EDI,A27.1,10341,2,1
+CL000303,M00011,P0081,"Rios, Carr and Rivera",Danielle Mcdonald,West,Medicaid,2024,5,2024-05-15,2024-05-08,7,3257.04,Approved,Outpatient,Fax,A44.5,49268,2,2
+CL000106,M00196,P0035,Richards-Johnson,null,null,null,2024,3,2024-03-18,2024-03-16,2,1457.5,Pending,Pharmacy,Portal,A36.2,22219,3,2
+CL000128,M00124,P0010,"Webb, Moore and Young",null,null,null,2024,3,2024-03-06,2024-02-27,8,872.55,Approved,Outpatient,Portal,null,28726,-1,1
+CL000251,M00248,P0010,"Webb, Moore and Young",Angela Walker,Metro,Medicare,2024,3,2024-03-10,2024-03-08,2,3882.21,Pending,Pharmacy,EDI,A53.6,34030,3,1
+CL000317,M00233,P0025,Pearson-Decker,null,null,null,2024,4,2024-04-13,2024-04-04,9,1629.42,Rejected,Outpatient,Fax,A76.0,61789,1,1
+CL000070,M00436,P0117,Smith Ltd,Samantha Gross,Central,Medicare,2024,4,2024-04-25,2024-04-25,0,3772.7,Pending,Dental,Portal,A42.4,31260,1,1
+CL000269,M00135,P0047,Hernandez and Sons,Christopher Moody,North,HMO,2024,3,2024-03-17,2024-03-08,9,2049.72,Submitted,Dental,API,A73.7,10235,1,1
+CL000408,M00216,P0102,Huber LLC,Justin Haynes,East,Medicaid,2024,4,2024-04-03,2024-03-29,5,3000.63,Rejected,Inpatient,Fax,A54.5,40188,2,2
+CL000075,M00193,P0108,"Oconnor, Morrow and Cline",Julian Hill,West,Medicare,2024,4,2024-04-10,null,null,3753.62,Submitted,null,null,A74.2,31108,3,2
+CL000182,M00099,P0089,Price-Collins,null,null,null,2024,4,2024-04-27,2024-04-27,0,2338.05,Submitted,Dental,EDI,A24.1,67261,2,2
+CL000352,M00095,P0041,Benjamin PLC,null,null,null,2024,4,2024-04-26,null,null,3598.76,Rejected,null,null,A16.4,57137,3,2
+CL000302,M00245,P0068,Brown and Sons,Andrew Pope,East,Medicaid,2024,5,2024-05-03,null,null,3611.69,Submitted,null,null,A89.7,36397,1,2
+CL000189,M00364,P0038,Wilson-Johnson,null,null,null,2024,4,2024-04-17,null,null,362.04,Approved,null,null,A42.7,24813,3,1
+CL000203,M00151,P0073,Johnson PLC,Crystal Gonzales,East,Medicare,2024,4,2024-04-11,null,null,342.96,Pending,null,null,A95.9,10541,2,1
+CL000316,M00227,P0034,Palmer Ltd,Devin Porter,Central,EPO,2024,5,2024-05-27,2024-05-23,4,1479.02,Submitted,Dental,API,A23.1,41774,3,2
+CL000240,M00093,P0021,Liu Inc,null,null,null,2024,4,2024-04-28,2024-04-23,5,562.7,Pending,Inpatient,Fax,A34.4,44896,1,2
+CL000063,M00301,P0030,"Le, Case and Davis",Bernard Johnson,Central,HMO,2024,4,2024-04-26,2024-04-21,5,3576.7,Submitted,Inpatient,Portal,A76.5,31460,1,1
+CL000181,M00111,P0093,Smith Group,null,null,null,2024,4,2024-04-21,2024-04-15,6,2335.55,Rejected,Dental,EDI,A36.3,45039,3,2
+CL000433,M00348,P0101,Lopez Inc,Andre Green,South,EPO,2024,3,2024-03-17,2024-03-15,2,3403.21,Approved,Pharmacy,Portal,A14.6,50131,2,2
+CL000361,M00240,P0005,"Lynch, Page and Castro",Chad Gonzales,North,Medicare,2024,5,2024-05-16,null,null,3109.16,Approved,null,null,A55.8,43071,2,1
+CL000013,M00300,P0090,Harmon and Sons,null,null,null,2024,4,2024-04-26,null,null,3492.36,Pending,null,null,A17.3,23006,2,1
+CL000101,M00473,P0034,Palmer Ltd,Kimberly Romero,South,HMO,2024,3,2024-03-21,2024-03-13,8,2229.84,Pending,Inpatient,API,A70.7,46911,1,2
+CL000277,M00023,P0039,"Cox, Wilson and Pearson",Beth Mitchell,Central,Medicaid,2024,5,2024-05-20,2024-05-14,6,1867.65,Rejected,Pharmacy,API,A79.0,66309,2,1
+CL000414,M00258,P0076,Griffith-Levine,Julia Smith,West,Medicaid,2024,5,2024-05-09,null,null,39.33,Rejected,null,null,A62.9,58218,1,2
+CL000487,M00433,P0011,Lewis Ltd,Kyle Ortiz,West,EPO,2024,4,2024-04-23,null,null,806.33,Pending,null,null,A37.7,15180,3,2
+CL000297,M00409,P0059,Young PLC,null,null,null,2024,3,2024-03-09,2024-03-08,1,1912.17,Submitted,Pharmacy,EDI,A49.9,11478,3,2
+CL000435,M00347,P0073,Johnson PLC,null,null,null,2024,4,2024-04-27,2024-04-23,4,2431.25,Approved,Pharmacy,Portal,A29.3,23218,2,1
+CL000384,M00489,P0029,Taylor LLC,Michael Miller,South,Medicaid,2024,4,2024-04-22,null,null,1487.19,Rejected,null,null,A52.3,15926,3,2
+CL000212,M00253,P0078,Smith-Roberts,null,null,null,2024,3,2024-03-01,2024-02-28,2,848.42,Rejected,Outpatient,Fax,A59.2,52067,2,1
+CL000387,M00046,P0044,"Hoffman, Horn and Donaldson",Jose Campbell,East,EPO,2024,5,2024-05-23,2024-05-22,1,1254.83,Pending,Dental,EDI,A32.4,56281,1,1
+CL000311,M00057,P0049,"Gordon, Fleming and Myers",null,null,null,2024,4,2024-04-27,2024-04-20,7,1429.9,Rejected,Pharmacy,EDI,A86.6,22072,3,2
+CL000463,M00256,P0101,Lopez Inc,Brian Salas,West,HMO,2024,4,2024-04-15,null,null,3063.23,Submitted,null,null,A92.8,22100,3,2
+CL000103,M00378,P0060,"Arellano, Willis and Hernandez",Nicole Lloyd,South,HMO,2024,5,2024-05-09,null,null,3391.34,Submitted,null,null,A69.7,45453,2,2
+CL000369,M00024,P0006,"Gilbert, Robertson and Gross",Michael Daniels,East,HMO,2024,4,2024-04-05,null,null,607.97,Approved,null,null,A96.1,24508,1,2
+CL000030,M00159,P0014,"Wood, Phillips and Moreno",null,null,null,2024,4,2024-04-08,null,null,2115.21,Approved,null,null,A46.5,64392,3,2
+CL000494,M00357,P0069,Singleton Ltd,Ronald Cole,West,Medicare,2024,4,2024-04-25,null,null,1462.36,Pending,null,null,A41.3,28291,2,1
+CL000151,M00120,P0016,Snyder-Harrison,Raymond Anderson,West,HMO,2024,3,2024-03-07,2024-03-04,3,3316.86,Approved,Pharmacy,EDI,A75.2,16932,2,1
+CL000397,M00415,P0054,"Rogers, Reed and Williams",Matthew Mccormick,South,EPO,2024,5,2024-05-13,2024-05-07,6,86.1,Pending,Outpatient,Portal,A29.7,68705,3,1
+CL000383,M00332,P0110,"Madden, Taylor and Rodriguez",Robert Richard,West,HMO,2024,4,2024-04-30,2024-04-22,8,2198.33,Pending,Outpatient,Fax,A58.5,14718,3,2
+CL000471,M00419,P0085,Hebert-Bradley,Brian Garcia,North,Medicaid,2024,5,2024-05-12,null,null,2570.85,Pending,null,null,A45.7,46614,1,1
+CL000119,M00431,P0048,James-Williams,null,null,null,2024,5,2024-05-19,null,null,1083.8,Submitted,null,null,A92.3,58853,1,2
+CL000064,M00127,P0108,"Oconnor, Morrow and Cline",Nathan Garcia,East,Medicare,2024,5,2024-05-08,null,null,2850.37,Pending,null,null,A84.4,53738,3,1
+CL000193,M00352,P0033,Goodman Group,null,null,null,2024,4,2024-04-24,2024-04-14,10,40.7,Rejected,Dental,Portal,A48.5,20010,3,2
+CL000161,M00117,P0016,Snyder-Harrison,Amanda Blanchard,Central,Medicaid,2024,3,2024-03-07,2024-03-01,6,397.55,Pending,Outpatient,Portal,A99.3,60827,3,2
+CL000340,M00383,P0095,Jackson Group,Miss Julie Jackson,East,HMO,2024,3,2024-03-01,2024-02-20,10,1482.42,Pending,Inpatient,EDI,A83.3,28720,3,1
+CL000400,M00432,P0033,Goodman Group,Benjamin Arnold,Central,Medicare,2024,4,2024-04-22,2024-04-13,9,3399.56,Approved,Dental,Fax,A79.8,19588,1,1
+CL000403,M00219,P0053,"Bryant, Smith and Conway",null,null,null,2024,5,2024-05-30,2024-05-26,4,3958.97,Pending,Dental,EDI,A95.7,42801,2,2
+CL000026,M00131,P0013,Lopez Group,Joshua Baker,North,Medicaid,2024,4,2024-04-03,null,null,1043.72,Approved,null,null,A49.3,53104,1,2
+CL000072,M00430,P0025,Pearson-Decker,null,null,null,2024,4,2024-04-08,2024-04-03,5,3759.58,Pending,Inpatient,API,null,41733,-1,2
+CL000014,M00224,P0093,Smith Group,Andrea Smith,Central,Medicaid,2024,3,2024-03-30,2024-03-21,9,3163.13,Pending,Inpatient,EDI,A82.2,17333,1,1
+CL000365,M00386,P0038,Wilson-Johnson,Nicholas Kramer,South,Medicare,2024,4,2024-04-22,2024-04-16,6,3248.98,Rejected,Inpatient,API,A26.9,66372,3,2
+CL000386,M00310,P0083,Roberts and Sons,null,null,null,2024,3,2024-03-05,2024-02-29,5,2101.28,Pending,Dental,EDI,A51.2,31892,3,1
+CL000415,M00286,P0002,Hendrix-Ellis,null,null,null,2024,3,2024-03-11,2024-03-07,4,726.55,Rejected,Inpatient,EDI,A61.7,29684,1,1
+CL000470,M00289,P0020,Pearson-Hopkins,null,null,null,2024,5,2024-05-19,null,null,1059.04,Submitted,null,null,A34.0,57063,1,2
+CL000108,M00387,P0092,Taylor PLC,Stephanie Velasquez,North,Medicare,2024,4,2024-04-07,2024-04-03,4,1638.28,Submitted,Inpatient,EDI,A12.8,50525,3,1
+CL000027,M00167,P0093,Smith Group,James Bennett,Metro,HMO,2024,4,2024-04-17,null,null,2419.01,Rejected,null,null,A34.6,54922,3,2
+CL000111,M00437,P0114,Barrera-Garrett,Nicole Mcknight,North,Medicaid,2024,3,2024-03-29,2024-03-28,1,733.56,Rejected,Pharmacy,Fax,A35.8,null,1,-1
+CL000327,M00398,P0022,"Velez, Gray and Brown",Randall Wagner,North,Medicare,2024,4,2024-04-12,null,null,2641.23,Approved,null,null,A65.7,55632,3,2
+CL000474,M00095,P0069,Singleton Ltd,null,null,null,2024,4,2024-04-30,null,null,3587.25,Submitted,null,null,A65.4,59820,3,2
+CL000021,M00082,P0119,"Griffin, Winters and Alexander",null,null,null,2024,5,2024-05-06,null,null,3931.82,Rejected,null,null,A25.4,57317,2,1
+CL000205,M00452,P0003,Walker Ltd,null,null,null,2024,3,2024-03-10,2024-03-06,4,3213.38,Approved,Dental,EDI,A83.2,27109,2,1
+CL000335,M00336,P0120,Weber-Cohen,Matthew Sullivan,North,Medicare,2024,4,2024-04-30,2024-04-21,9,3977.23,Rejected,Pharmacy,Fax,A11.6,25124,1,2
+CL000140,M00312,P0028,Weiss-Adkins,April Lopez,South,Medicaid,2024,3,2024-03-29,2024-03-25,4,2713.76,Submitted,Pharmacy,Portal,A76.1,39286,3,1
+CL000224,M00382,P0117,Smith Ltd,Jamie Wolf,West,Medicaid,2024,4,2024-04-29,2024-04-28,1,1826.37,Approved,Pharmacy,API,A39.0,56640,2,2
+CL000237,M00016,P0026,"Smith, Foster and Perkins",Derek Castro,East,HMO,2024,4,2024-04-11,2024-04-10,1,2881.9,Rejected,Inpatient,Fax,A77.4,38658,2,2
+CL000266,M00354,P0100,Gregory-Rodriguez,Christopher Garcia Jr.,Metro,HMO,2024,5,2024-05-20,2024-05-19,1,895.7,Submitted,Pharmacy,API,A25.2,55261,2,1
+CL000394,M00148,P0017,Davis-Molina,null,null,null,2024,4,2024-04-01,2024-03-26,6,3489.55,Submitted,Pharmacy,API,A80.4,56294,2,2
+CL000485,M00022,P0095,Jackson Group,Matthew Hernandez,South,Medicaid,2024,4,2024-04-20,null,null,1471.18,Submitted,null,null,A53.4,66332,1,2
+CL000484,M00179,P0048,James-Williams,Jason Nelson,South,EPO,2024,5,2024-05-15,null,null,104.2,Pending,null,null,A79.6,54746,3,1
+CL000174,M00147,P0007,Pena-Larson,null,null,null,2024,4,2024-04-06,null,null,1835.0,Submitted,null,null,A34.2,15514,2,1
+CL000466,M00231,P0066,Howe PLC,null,null,null,2024,4,2024-04-17,null,null,2373.74,Rejected,null,null,A67.7,29593,3,2
+CL000055,M00345,P0008,Collins PLC,Taylor Black,North,Medicare,2024,5,2024-05-20,null,null,851.27,Approved,null,null,A62.8,68308,1,1
+CL000146,M00476,P0067,Golden-Robinson,Andrew Griffin,East,HMO,2024,4,2024-04-05,null,null,3706.12,Approved,null,null,A61.0,22761,2,1
+CL000324,M00480,P0078,Smith-Roberts,null,null,null,2024,5,2024-05-04,null,null,1719.23,Submitted,null,null,A19.5,69297,3,1
+CL000192,M00261,P0016,Snyder-Harrison,Laura Delgado,East,Medicaid,2024,3,2024-03-15,2024-03-11,4,1607.99,Rejected,Pharmacy,Fax,A59.2,59889,2,1
+CL000245,M00173,P0111,Marshall PLC,Andrew Walls,East,EPO,2024,3,2024-03-14,2024-03-06,8,2876.66,Approved,Outpatient,API,A46.4,38543,2,1
+CL000270,M00019,P0051,Li Inc,Bryan Clark,East,EPO,2024,3,2024-03-07,2024-03-02,5,984.3,Rejected,Dental,Portal,A51.6,26337,3,2
+CL000219,M00363,P0044,"Hoffman, Horn and Donaldson",Christina Thomas,West,EPO,2024,4,2024-04-16,2024-04-15,1,1848.58,Submitted,Outpatient,EDI,A59.7,56926,3,2
+CL000017,M00224,P0078,Smith-Roberts,Andrea Smith,Central,Medicaid,2024,5,2024-05-07,2024-04-27,10,1242.96,Approved,Inpatient,EDI,A23.2,68742,2,2
+CL000080,M00065,P0093,Smith Group,null,null,null,2024,3,2024-03-05,2024-02-25,9,1050.93,Submitted,Pharmacy,EDI,A70.5,20732,1,1
+CL000061,M00110,P0056,"Eaton, Stephens and Mitchell",Sandra Jackson,Central,EPO,2024,4,2024-04-11,2024-04-04,7,3460.16,Pending,Dental,Portal,A21.1,42407,3,2
+CL000278,M00182,P0009,Silva-Jones,null,null,null,2024,4,2024-04-29,null,null,1521.78,Submitted,null,null,A44.1,63525,2,1
+CL000045,M00138,P0060,"Arellano, Willis and Hernandez",Adam Heath,South,Medicaid,2024,4,2024-04-22,2024-04-17,5,754.17,Rejected,Dental,Portal,null,null,-1,-1
+CL000160,M00071,P0018,"Johnson, Flores and Sampson",Rebecca Adams,South,Medicare,2024,5,2024-05-27,2024-05-20,7,974.35,Approved,Pharmacy,Fax,null,52002,-1,1
+CL000444,M00353,P0014,"Wood, Phillips and Moreno",Garrett Nguyen,South,HMO,2024,5,2024-05-04,2024-04-24,10,3571.16,Approved,Pharmacy,API,A50.2,21821,2,2
+CL000477,M00309,P0076,Griffith-Levine,Joyce Marshall,South,HMO,2024,4,2024-04-26,null,null,3315.62,Rejected,null,null,A30.9,68577,2,2
+CL000052,M00336,P0104,"Burns, Padilla and Aguilar",Matthew Sullivan,North,Medicare,2024,4,2024-04-16,2024-04-14,2,935.83,Submitted,Pharmacy,EDI,A27.1,26981,3,1
+CL000461,M00016,P0103,"Valentine, Ochoa and Kerr",Derek Castro,East,HMO,2024,4,2024-04-28,2024-04-27,1,3436.76,Rejected,Inpatient,Fax,A72.1,65703,2,1
+CL000257,M00191,P0065,"Higgins, Jennings and Stewart",null,null,null,2024,3,2024-03-14,2024-03-14,0,2834.33,Rejected,Outpatient,Portal,A77.7,17195,2,2
+CL000199,M00480,P0046,White-Hicks,null,null,null,2024,4,2024-04-10,2024-04-10,0,1949.25,Approved,Outpatient,EDI,null,51344,-1,1
+CL000259,M00009,P0050,"Smith, Ellison and Graves",Daniel Howard,East,Medicare,2024,3,2024-03-03,2024-03-01,2,3867.46,Submitted,Dental,Portal,A65.8,24022,3,1
+CL000039,M00352,P0101,Lopez Inc,null,null,null,2024,4,2024-04-09,null,null,2393.62,Rejected,null,null,A64.1,16961,2,2
+CL000145,M00068,P0058,Marshall Inc,Jamie Hernandez,East,EPO,2024,5,2024-05-19,null,null,2737.13,Rejected,null,null,A26.9,69124,2,1
+CL000274,M00032,P0064,Chan-Osborne,null,null,null,2024,5,2024-05-25,2024-05-21,4,3217.25,Submitted,Inpatient,API,A99.5,29046,3,2
+CL000176,M00285,P0012,Trujillo LLC,Karen Hayes,West,Medicaid,2024,4,2024-04-10,2024-04-07,3,3243.15,Approved,Pharmacy,Fax,A62.6,42646,3,1
+CL000341,M00310,P0018,"Johnson, Flores and Sampson",null,null,null,2024,5,2024-05-23,2024-05-18,5,3220.43,Rejected,Dental,Portal,A94.2,null,2,-1
+CL000243,M00253,P0072,Miller-Cook,null,null,null,2024,3,2024-03-08,2024-03-01,7,603.35,Pending,Pharmacy,API,A79.9,20509,1,1
+CL000375,M00078,P0053,"Bryant, Smith and Conway",Johnathan Johnson,Central,EPO,2024,4,2024-04-02,null,null,1090.28,Submitted,null,null,A36.9,14535,2,1
+CL000131,M00311,P0006,"Gilbert, Robertson and Gross",null,null,null,2024,3,2024-03-05,2024-02-29,5,1291.62,Rejected,Inpatient,API,A57.9,24886,2,1
+CL000236,M00033,P0093,Smith Group,Chelsea Thompson,East,EPO,2024,5,2024-05-30,2024-05-25,5,2895.56,Approved,Pharmacy,Portal,A65.4,44552,1,1
+CL000409,M00164,P0091,"Hunt, Fletcher and Hendricks",Vanessa Chavez,West,Medicaid,2024,5,2024-05-11,2024-05-09,2,1054.42,Approved,Inpatient,EDI,A39.6,52914,3,1
+CL000396,M00348,P0060,"Arellano, Willis and Hernandez",Andre Green,South,EPO,2024,5,2024-05-09,2024-05-07,2,398.69,Pending,Dental,Portal,A36.1,15984,1,1
+CL000153,M00494,P0058,Marshall Inc,null,null,null,2024,4,2024-04-07,null,null,1246.92,Submitted,null,null,A52.2,57624,3,2
+CL000150,M00437,P0015,"Torres, Keith and Ortiz",Nicole Mcknight,North,Medicaid,2024,5,2024-05-12,2024-05-04,8,1876.71,Approved,Pharmacy,EDI,A93.0,52847,3,1
+CL000062,M00285,P0008,Collins PLC,Karen Hayes,West,Medicaid,2024,4,2024-04-11,2024-04-01,10,2235.1,Submitted,Dental,Portal,A41.3,43273,1,1
+CL000109,M00071,P0035,Richards-Johnson,Rebecca Adams,South,Medicare,2024,4,2024-04-07,null,null,861.18,Pending,null,null,A87.8,34598,1,1
+CL000450,M00397,P0018,"Johnson, Flores and Sampson",null,null,null,2024,5,2024-05-26,2024-05-18,8,220.56,Pending,Pharmacy,Portal,A69.3,17756,2,1
+CL000479,M00399,P0074,Davis-Rogers,Shelley Hampton,Metro,Medicare,2024,5,2024-05-18,null,null,2811.09,Submitted,null,null,A52.5,29564,3,2
+CL000096,M00365,P0112,"Cunningham, Robinson and Hughes",null,null,null,2024,3,2024-03-19,2024-03-11,8,1672.15,Rejected,Dental,API,A97.1,47868,2,1
+CL000202,M00164,P0050,"Smith, Ellison and Graves",Vanessa Chavez,West,Medicaid,2024,4,2024-04-30,2024-04-26,4,3705.43,Pending,Dental,Portal,A91.2,53342,2,2
+CL000206,M00162,P0120,Weber-Cohen,Glenn Chambers,East,HMO,2024,4,2024-04-14,null,null,3649.24,Rejected,null,null,A10.0,11678,3,2
+CL000306,M00409,P0053,"Bryant, Smith and Conway",null,null,null,2024,3,2024-03-17,2024-03-13,4,1756.31,Pending,Outpatient,EDI,A54.0,63999,3,1
+CL000073,M00099,P0076,Griffith-Levine,null,null,null,2024,4,2024-04-10,2024-04-09,1,758.89,Pending,Outpatient,EDI,A72.7,42779,3,1
+CL000281,M00209,P0084,Watson-Brown,Suzanne Hodge,West,Medicaid,2024,3,2024-03-11,2024-03-01,10,1987.18,Rejected,Outpatient,Portal,A51.2,68570,2,2
+CL000214,M00020,P0037,Glover Inc,Victor Houston,South,HMO,2024,4,2024-04-29,2024-04-21,8,2984.49,Rejected,Dental,EDI,A43.7,21035,2,1
+CL000031,M00459,P0036,"Mcconnell, Schmidt and Hansen",Christopher Walls,Central,EPO,2024,4,2024-04-08,2024-04-05,3,1256.4,Submitted,Inpatient,API,A69.9,12987,2,1
+CL000142,M00457,P0043,"Medina, Mays and Yates",null,null,null,2024,4,2024-04-06,2024-03-30,7,2769.15,Submitted,Inpatient,API,A17.2,24370,1,1
+CL000149,M00485,P0086,"Martinez, Guerrero and Lowe",Christopher Villa,East,Medicare,2024,3,2024-03-02,2024-02-29,2,3509.15,Submitted,Dental,EDI,A13.2,58021,1,1
+CL000367,M00443,P0029,Taylor LLC,Maria Schneider,Central,Medicare,2024,4,2024-04-30,null,null,552.59,Pending,null,null,A57.2,51566,2,1
+CL000046,M00421,P0118,"Edwards, Jackson and Jones",null,null,null,2024,4,2024-04-12,2024-04-07,5,2444.1,Approved,Pharmacy,API,A64.0,null,1,-1
+CL000170,M00468,P0020,Pearson-Hopkins,null,null,null,2024,4,2024-04-29,2024-04-29,0,3403.85,Approved,Pharmacy,EDI,A19.9,42244,1,2
+CL000113,M00208,P0077,Pacheco-Thomas,Gavin Williams,West,EPO,2024,5,2024-05-06,null,null,1595.62,Approved,null,null,A44.2,40705,3,1
+CL000025,M00008,P0082,"Stokes, Cunningham and Bray",Clinton Weaver,South,Medicaid,2024,4,2024-04-03,null,null,394.21,Approved,null,null,A64.9,27834,2,2
+CL000319,M00413,P0039,"Cox, Wilson and Pearson",Edward Juarez,West,EPO,2024,3,2024-03-13,2024-03-13,0,3199.82,Rejected,Pharmacy,EDI,A22.8,34690,1,1
+CL000086,M00249,P0049,"Gordon, Fleming and Myers",Frank Harris,North,HMO,2024,5,2024-05-05,null,null,1203.36,Submitted,null,null,A55.1,20832,2,1
+CL000332,M00456,P0024,Scott-Johnson,Amanda Jones,North,Medicaid,2024,4,2024-04-29,2024-04-24,5,954.64,Pending,Outpatient,Fax,A79.6,68988,1,1
+CL000392,M00207,P0004,"Petersen, Hood and Smith",Trevor Delgado,Metro,Medicaid,2024,4,2024-04-26,null,null,1424.52,Submitted,null,null,A10.2,64549,3,1
+CL000040,M00297,P0023,"Brown, Jimenez and Zimmerman",Frances Hall,North,EPO,2024,4,2024-04-15,2024-04-09,6,304.63,Approved,Outpatient,Portal,A80.7,19247,2,2
+CL000057,M00425,P0096,Stewart Ltd,Dylan Miller,South,HMO,2024,4,2024-04-04,2024-03-27,8,1475.98,Submitted,Pharmacy,EDI,A64.9,20559,1,2
+CL000132,M00067,P0066,Howe PLC,Samantha Moore,East,Medicaid,2024,3,2024-03-04,2024-02-25,8,1558.84,Pending,Inpatient,Portal,A42.2,48442,2,1
+CL000310,M00078,P0062,Cooper-Hayes,Johnathan Johnson,Central,EPO,2024,5,2024-05-09,null,null,2153.17,Submitted,null,null,A72.3,24293,3,1
+CL000268,M00415,P0087,Gillespie-Bradley,Matthew Mccormick,South,EPO,2024,3,2024-03-08,2024-02-27,10,1473.98,Submitted,Dental,API,null,46530,-1,1
+CL000346,M00258,P0053,"Bryant, Smith and Conway",Julia Smith,West,Medicaid,2024,4,2024-04-02,null,null,2367.95,Submitted,null,null,A16.8,56273,1,2
+CL000048,M00404,P0086,"Martinez, Guerrero and Lowe",Mark Merritt,Central,HMO,2024,5,2024-05-13,null,null,1722.0,Approved,null,null,A85.4,44706,2,2
+CL000431,M00239,P0048,James-Williams,null,null,null,2024,4,2024-04-24,2024-04-18,6,2713.51,Approved,Dental,API,A92.0,43464,3,1
+CL000196,M00309,P0082,"Stokes, Cunningham and Bray",Joyce Marshall,South,HMO,2024,4,2024-04-24,2024-04-22,2,3367.6,Pending,Dental,API,null,30585,-1,2
+CL000328,M00185,P0120,Weber-Cohen,null,null,null,2024,5,2024-05-20,null,null,1015.96,Approved,null,null,A33.8,25603,1,1
+CL000007,M00005,P0057,"Lee, Ward and Gray",Joseph Gonzalez,North,HMO,2024,5,2024-05-28,2024-05-22,6,2883.71,Rejected,Inpatient,Portal,A38.4,15437,3,2
+CL000347,M00407,P0002,Hendrix-Ellis,Mark Raymond,North,Medicaid,2024,4,2024-04-06,null,null,821.55,Rejected,null,null,A22.0,30993,3,1
+CL000051,M00130,P0115,Alvarado and Sons,Kevin Le,North,Medicare,2024,5,2024-05-09,null,null,2691.53,Submitted,null,null,A96.6,39015,2,2
+CL000418,M00403,P0001,Miller LLC,Tara Ford,Central,EPO,2024,5,2024-05-07,2024-05-01,6,3162.33,Pending,Inpatient,EDI,A25.4,null,1,-1
+CL000254,M00393,P0047,Hernandez and Sons,Jacob Montoya,North,HMO,2024,3,2024-03-17,2024-03-14,3,3519.29,Submitted,Inpatient,API,null,50369,-1,2
+CL000389,M00437,P0025,Pearson-Decker,Nicole Mcknight,North,Medicaid,2024,3,2024-03-31,2024-03-25,6,930.16,Pending,Pharmacy,API,A13.4,55385,1,1
+CL000067,M00289,P0077,Pacheco-Thomas,null,null,null,2024,5,2024-05-24,2024-05-16,8,2614.95,Pending,Dental,Portal,A29.0,52508,3,1
+CL000325,M00174,P0078,Smith-Roberts,Natalie Norman,East,Medicare,2024,3,2024-03-04,2024-03-02,2,292.37,Submitted,Pharmacy,Fax,null,20464,-1,1
+CL000082,M00382,P0078,Smith-Roberts,Jamie Wolf,West,Medicaid,2024,4,2024-04-04,null,null,1000.61,Approved,null,null,A50.9,40030,2,2
+CL000425,M00459,P0067,Golden-Robinson,Christopher Walls,Central,EPO,2024,3,2024-03-09,2024-03-02,7,76.86,Approved,Dental,Portal,A79.5,40246,2,1
+CL000228,M00139,P0114,Barrera-Garrett,null,null,null,2024,4,2024-04-23,null,null,1232.16,Pending,null,null,A81.8,53937,2,2
+CL000376,M00153,P0056,"Eaton, Stephens and Mitchell",null,null,null,2024,4,2024-04-05,2024-04-02,3,3648.27,Rejected,Pharmacy,API,A69.0,55445,2,2
+CL000273,M00495,P0050,"Smith, Ellison and Graves",Kimberly Gonzalez,North,HMO,2024,4,2024-04-12,null,null,412.54,Pending,null,null,A40.2,37399,1,1
+CL000050,M00055,P0040,"Barber, Steele and Stokes",null,null,null,2024,5,2024-05-09,2024-05-08,1,3459.73,Submitted,Pharmacy,Fax,A14.3,35869,3,2
+CL000272,M00002,P0013,Lopez Group,Michelle Jordan,East,EPO,2024,4,2024-04-22,null,null,755.49,Approved,null,null,A93.7,17915,1,1
+CL000012,M00431,P0032,"Beard, Colon and Peters",null,null,null,2024,5,2024-05-04,null,null,2408.44,Rejected,null,null,A80.2,14599,2,2
+CL000234,M00299,P0072,Miller-Cook,Richard Hines,West,EPO,2024,4,2024-04-15,2024-04-06,9,1733.44,Submitted,Outpatient,EDI,A28.5,25323,2,2
+CL000120,M00248,P0004,"Petersen, Hood and Smith",Angela Walker,Metro,Medicare,2024,5,2024-05-26,2024-05-24,2,3574.49,Rejected,Dental,Portal,A17.7,39595,3,1
+CL000293,M00333,P0120,Weber-Cohen,Adam Alvarez,Central,Medicare,2024,5,2024-05-16,null,null,3061.31,Submitted,null,null,A49.3,50576,1,2
+CL000469,M00400,P0043,"Medina, Mays and Yates",null,null,null,2024,4,2024-04-28,null,null,123.2,Approved,null,null,A77.7,28170,1,1
+CL000009,M00368,P0066,Howe PLC,Jason Huerta,Central,HMO,2024,5,2024-05-07,null,null,3473.11,Approved,null,null,A96.9,32871,3,1
+CL000368,M00009,P0030,"Le, Case and Davis",Daniel Howard,East,Medicare,2024,4,2024-04-09,2024-04-08,1,404.01,Approved,Outpatient,EDI,A67.7,10861,3,1
+CL000105,M00030,P0024,Scott-Johnson,James Warren,North,Medicaid,2024,4,2024-04-25,2024-04-15,10,573.88,Submitted,Outpatient,EDI,A33.0,62555,2,2
+CL000074,M00253,P0070,Mccoy-Benitez,null,null,null,2024,4,2024-04-11,2024-04-07,4,2847.91,Pending,Dental,Portal,A49.8,33815,2,2
+CL000207,M00083,P0082,"Stokes, Cunningham and Bray",Scott Petty,South,Medicare,2024,4,2024-04-05,2024-03-26,10,1526.06,Rejected,Dental,Fax,A16.5,26517,3,1
+CL000079,M00194,P0069,Singleton Ltd,Wendy Moore,North,EPO,2024,3,2024-03-20,2024-03-18,2,3436.38,Pending,Pharmacy,API,A10.3,62312,2,2
+CL000326,M00171,P0012,Trujillo LLC,Paul Thomas,Metro,Medicaid,2024,4,2024-04-20,2024-04-13,7,3788.78,Approved,Outpatient,API,A13.2,62854,1,2
+CL000065,M00278,P0055,Steele-Reese,Tony Maldonado,West,Medicare,2024,5,2024-05-25,2024-05-22,3,909.88,Approved,Dental,Fax,A45.4,54155,2,2
+CL000137,M00221,P0054,"Rogers, Reed and Williams",Hannah Hopkins,Central,Medicaid,2024,4,2024-04-14,null,null,702.07,Submitted,null,null,A21.7,13221,2,2

@@ -1,0 +1,21 @@
+#similar setting in siler_clean and gold_transform
+resources:
+  pipelines:
+    pipeline_silver_batch_clean:
+      name: Silver_Batch_Clean
+      libraries:
+        - glob:
+            include: /Repos/piyachat.b@ext.essilor.com/Capstone/02_clean/silver_clean.py
+      schema: default
+      continuous: false
+      development: false
+      photon: true
+      channel: CURRENT
+      catalog: workspace
+      notifications:
+        - email_recipients:
+            - piyachat.b@ext.essilor.com
+          alerts:
+            - on-update-failure
+      serverless: true
+      root_path: /Repos/piyachat.b@ext.essilor.com/Capstone/02_clean

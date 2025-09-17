@@ -1,0 +1,19 @@
+#similar setting in siler_clean and gold_transform
+resources:
+  jobs:
+    Silver_Batch_Clean:
+      name: Silver_Batch_Clean
+      email_notifications:
+        on_failure:
+          - piyachat.b@ext.essilor.com
+        no_alert_for_skipped_runs: true
+      trigger:
+        pause_status: UNPAUSED
+        periodic:
+          interval: 3
+          unit: HOURS
+      tasks:
+        - task_key: pipeline-task-593fd040-d2fd-4ab9-b444-f29508a9673e
+          pipeline_task:
+            pipeline_id: 593fd040-d2fd-4ab9-b444-f29508a9673e
+      performance_target: STANDARD
